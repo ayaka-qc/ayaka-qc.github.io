@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+title: Blogs
+description: Montrealでの初の海外生活をお届け
+github_username:  ayaka-qc
+# url: "https://hiroki11x.github.io/"
+
+github:
+  is_project_page: false
+
+include:
+  - _pages
