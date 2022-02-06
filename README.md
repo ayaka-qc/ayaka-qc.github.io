@@ -1,4 +1,4 @@
-# Ayaka
+# Blogs
 
 ## 大学院受験
 - [IELTS 関連](/blogs/ielts)
