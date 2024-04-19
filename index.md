@@ -2,20 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hi! I am Ayaka Naganuma, an incoming master's student in Public and International Affairs at the University of Ottawa. I have a mixed background in public policy, international development, and marketing. Additionally, I am passionate about broadening my understanding of data analytics and data science. 
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Education
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- Master of Arts - MA, Public and International Affairs / University of Ottawa
+- Bachelor of Arts and Science, Global cooperation and Area studies / Yokohama City University 
 
-# Header 1
+## Experiences
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
