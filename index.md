@@ -7,7 +7,7 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 
 # Education
 
-- 2024.Sep Master of Arts - MA, Public and International Affairs / University of Ottawa / Sep 2024 - Aug 2026 (Expected)
+- Sep 2024 - Aug 2026 (Expected) Master of Arts - MA, Public and International Affairs / University of Ottawa
 - Bachelor of Arts and Science, Global cooperation and Area studies / Yokohama City University 
 
 # Research Experience
