@@ -69,6 +69,6 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
   - French(Elementary proficiency)
 - Programming
   - Python (including statistical analysis by using scikit-learn and pytorch)
-  - LATEX
+  - LaTeX
   - Bash (Bourne-again shell) 
 
