@@ -26,3 +26,9 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 - Jan 2023 - Mar 2023 Strategic Communication Intern at United Nations Information Center Tokyo
 - Apr 2019 - Dec 2021 Marketing Specialist, and Revenue and Brand Manager at Relo Vacations, Ltd.
 - Apr 2017 - Mar 2019 Public Servant at Kanagawa Prefectural Government
+
+# Publications and Presentations
+
+# Other Experience
+
+# Skills
