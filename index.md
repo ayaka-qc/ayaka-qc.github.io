@@ -10,5 +10,10 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 - Master of Arts - MA, Public and International Affairs / University of Ottawa
 - Bachelor of Arts and Science, Global cooperation and Area studies / Yokohama City University 
 
-## Experiences
+# Research Experience
+
+- Research Assistant at DENSO IT Laboratory
+  Supervisor : Prof. Ikuro Sato
+  Topic: Generalization and Optimization in Deep Learning
+
 
