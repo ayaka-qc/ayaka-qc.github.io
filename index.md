@@ -13,7 +13,7 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 # Research Experience
 
 - Research Assistant at DENSO IT Laboratory
-  Supervisor : Prof. Ikuro Sato
-  Topic: Generalization and Optimization in Deep Learning
+  - Supervisor : Prof. Ikuro Sato
+  - Topic: Generalization and Optimization in Deep Learning
 
 
