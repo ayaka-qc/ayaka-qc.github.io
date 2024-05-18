@@ -17,4 +17,6 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
   - Supervisor: Prof. Andrew G. Ryder
   - Topic: Cultural acculturation on the mental well-being and social support needs of Japanese immigrants in Canada through comprehensive statistical analysis.
 
-
+- Apr 2022 - Mar 2024 Research Assistant at Gakushuin University Research Institute of Economics and Management
+  - Supervisor: Prof. Takaho Ueda
+  - Topic: Study of the applicability of the Territorial Approach to regional development in Japan based on comparative analysis with Italy and developing countries.
