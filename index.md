@@ -7,17 +7,22 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 
 # Education
 
-- Sep 2024 - Aug 2026 (Expected) Master of Arts - MA, Public and International Affairs / University of Ottawa
-- May 2022 - Dec 2023 Courses of English for Professional Communication / McGill University School of Continuing Studies
-- Apr 2013 - Mar 2017 Bachelor of Arts and Science, Global cooperation and Area studies / Yokohama City University 
+- University of Ottawa / Sep 2024 - Aug 2026 (Expected)
+  - Master of Arts - MA, Public and International Affairs
+- McGill University / May 2022 - Dec 2023
+  - School of Continuing Studies. Courses of English for Professional Communication
+- Yokohama City University / Apr 2013 - Mar 2017 
+  - Bachelor of Arts and Science, Global cooperation and Area studies
 
 # Research Experience
 
-- April 2023 - Present Research Assistant at Concordia University Institute for Cultural-Clinical Psychology
+- Concordia University / April 2023 - Present
+  - Research Assistant at the Institute for Cultural-Clinical Psychology 
   - Supervisor: Prof. Andrew G. Ryder
   - Topic: Cultural acculturation on the mental well-being and social support needs of Japanese immigrants in Canada through comprehensive statistical analysis.
 
-- Apr 2022 - Mar 2024 Research Assistant at Gakushuin University Research Institute of Economics and Management
+- Gakushuin University / Apr 2022 - Mar 2024 
+  - Research Assistant at the Research Institute of Economics and Management
   - Supervisor: Prof. Takaho Ueda
   - Topic: Study of the applicability of the Territorial Approach to regional development in Japan based on comparative analysis with Italy and developing countries.
  
@@ -26,6 +31,9 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 - Jan 2023 - Mar 2023 Strategic Communication Intern at United Nations Information Center Tokyo
 - Apr 2019 - Dec 2021 Marketing Specialist, and Revenue and Brand Manager at Relo Vacations, Ltd.
 - Apr 2017 - Mar 2019 Public Servant at Kanagawa Prefectural Government
+
+# Other Experience
+- 
 
 # Publications
 1. Ayaka Naganuma, Makiko Fukami, Takaho Ueda, ”Research on the conditions for the Territorial Approach, a regional development method, and the need for regional branding”, 2024 (Under Review).
@@ -37,7 +45,5 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 2. Ayaka Naganuma, Presentation on ”Canadian Immigration Research: Overview of Canadian Immigration Policies and Current Challenges”, Tsukuba University International Migration Research Group, June 2023.
 3. Ayaka Naganuma, Presentation on ”Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy”, Gakusyuin University Institute of Economic Research June Monthly Research Presentation, June 2023.
 4. Ayaka Naganuma, Presentation on ”SDGs and Regional Promotion: A Case Study of Olive Island Creation in Shodoshima, Kagawa Prefecture,”, Gakusyuin University Institute of Economic Research May Monthly Research Presentation, May 2023.
-
-# Other Experience
 
 # Skills
