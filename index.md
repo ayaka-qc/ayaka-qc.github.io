@@ -36,7 +36,14 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
   - Public Servant at Future Generation Development Department Private School Affairs Division
 
 # Other Experience
-- 
+- [United People Global](http://www.unitedpeople.global) / Mar 2024 - Jun 2024
+  - Candidate of the UPG Sustainability Leaders 2024 certified by United People Global, a non-profit organization based in Geneva, Switzerland
+
+- [OECD Youth Consultation - Asia-Pacific](https://www.oecd.org/about/civil-society/youth/youthwise/) / Feb 2024
+  - Asia-Pacific Youth Representative organized by OECD and Youth Wise (OECD’s Youth Advisory Committee)
+
+- [Global Leadership Training Program](https://www.gltp-tokyo.com/) / Sep 2023 - Nov 2023
+  - Certificate of Completion, November 2023 certified by GLTP Tokyo and Tobitate! Study Abroad Initiative
 
 # Publications
 1. Ayaka Naganuma, Makiko Fukami, Takaho Ueda, ”Research on the conditions for the Territorial Approach, a regional development method, and the need for regional branding”, 2024 (Under Review).
