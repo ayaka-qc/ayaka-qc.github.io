@@ -27,7 +27,16 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 - Apr 2019 - Dec 2021 Marketing Specialist, and Revenue and Brand Manager at Relo Vacations, Ltd.
 - Apr 2017 - Mar 2019 Public Servant at Kanagawa Prefectural Government
 
-# Publications and Presentations
+# Publications
+1. Ayaka Naganuma, Makiko Fukami, Takaho Ueda, ”Research on the conditions for the Territorial Approach, a regional development method, and the need for regional branding”, 2024 (Under Review).
+2. Ayaka Naganuma,” The possibility of regional development and tourism development in Japan through voluntary and collaborative sustainable tourism on isolated islands”, 5th Tourism Paper Award Contest / TAP Inc., August 2022.
+3. 村田彩花（旧姓表記）. 2016. 産業集積地域である東京都大田区における中小企業の海外展開について. 学士論文、横浜市立大学国際総合科学部国際都市学系、横浜市. (成績: 秀)
+
+# Presentations
+1. Ayaka Naganuma*, Momoka Sunohara*, Presentation on ”Review of Research on Needs and Sources of Support in Social Support”, Joint Research Presentation of Concordia University and ISCTE-IUL, September 2023. (* denotes equal contribution)
+2. Ayaka Naganuma, Presentation on ”Canadian Immigration Research: Overview of Canadian Immigration Policies and Current Challenges”, Tsukuba University International Migration Research Group, June 2023.
+3. Ayaka Naganuma, Presentation on ”Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy”, Gakusyuin University Institute of Economic Research June Monthly Research Presentation, June 2023.
+4. Ayaka Naganuma, Presentation on ”SDGs and Regional Promotion: A Case Study of Olive Island Creation in Shodoshima, Kagawa Prefecture,”, Gakusyuin University Institute of Economic Research May Monthly Research Presentation, May 2023.
 
 # Other Experience
 
