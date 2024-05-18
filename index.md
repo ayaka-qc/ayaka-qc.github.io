@@ -42,7 +42,7 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 - [Global Leadership Training Program](https://www.gltp-tokyo.com/) / Sep 2023 - Nov 2023
   - Certificate of Completion, November 2023 certified by GLTP Tokyo and Tobitate! Study Abroad Initiative
 - Tokyo Metropolitan Government / September 2022 - December 2022
-  - Training - Human Resources Development Project for Tourism Management:
+  - Training - Human Resources Development Project for Tourism Management
 - [Christian Mission Service Philippines](https://cms.org.ph/) / June 2013 - September 2014
   - Volunteering - Support children’s education at the childcare organization that provides comprehensive nurturing services
 
@@ -56,3 +56,19 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 2. Ayaka Naganuma, Presentation on ”Canadian Immigration Research: Overview of Canadian Immigration Policies and Current Challenges”, Tsukuba University International Migration Research Group, June 2023.
 3. Ayaka Naganuma, Presentation on ”Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy”, Gakusyuin University Institute of Economic Research June Monthly Research Presentation, June 2023.
 4. Ayaka Naganuma, Presentation on ”SDGs and Regional Promotion: A Case Study of Olive Island Creation in Shodoshima, Kagawa Prefecture,”, Gakusyuin University Institute of Economic Research May Monthly Research Presentation, May 2023.
+
+# Community
+- Ottawa Japanese Researchers Association: Member
+- Montreal Academy Club: Member
+- Model of United Nations of Hiyoshi Branch: 19th generation
+
+# Skills Summary
+- Language
+  - Japanese(Native)
+  - English(Advanced, IELTS(Overall: 7.0(C1)): March 2024)
+  - French(Elementary proficiency)
+- Programming
+  - Python (including statistical analysis by using scikit-learn and pytorch)
+  - LATEX
+  - Bash (Bourne-again shell) 
+
