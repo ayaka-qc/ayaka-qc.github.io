@@ -7,28 +7,29 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 
 # Education
 
-- University of Ottawa / Sep 2024 - Aug 2026 (Expected)
+- [University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Aug 2026 (Expected)
   - Master of Arts - MA, Public and International Affairs
-- McGill University / May 2022 - Dec 2023
+- [McGill University](https://www.mcgill.ca/) / May 2022 - Dec 2023
   - School of Continuing Studies. Courses of English for Professional Communication
-- Yokohama City University / Apr 2013 - Mar 2017 
+- [Yokohama City University](https://www-user.yokohama-cu.ac.jp/~english/) / Apr 2013 - Mar 2017 
   - Bachelor of Arts and Science, Global cooperation and Area studies
 
 # Research Experience
 
-- Concordia University / April 2023 - Present
+- [Concordia University](https://www.concordia.ca/) / April 2023 - Present
   - Research Assistant at the Institute for Cultural-Clinical Psychology 
   - Supervisor: Prof. Andrew G. Ryder
   - Topic: Cultural acculturation on the mental well-being and social support needs of Japanese immigrants in Canada through comprehensive statistical analysis.
 
-- Gakushuin University / Apr 2022 - Mar 2024 
+- [Gakushuin University](https://www.univ.gakushuin.ac.jp/en/) / Apr 2022 - Mar 2024 
   - Research Assistant at the Research Institute of Economics and Management
   - Supervisor: Prof. Takaho Ueda
   - Topic: Study of the applicability of the Territorial Approach to regional development in Japan based on comparative analysis with Italy and developing countries.
  
 # Work Experience
 
-- Jan 2023 - Mar 2023 Strategic Communication Intern at United Nations Information Center Tokyo
+- [United Nations Information Center Tokyo](https://www.unic.or.jp/info/un_agencies_japan/unic/?lang=en) / Jan 2023 - Mar 2023
+  - Strategic Communication Intern
 - Apr 2019 - Dec 2021 Marketing Specialist, and Revenue and Brand Manager at Relo Vacations, Ltd.
 - Apr 2017 - Mar 2019 Public Servant at Kanagawa Prefectural Government
 
