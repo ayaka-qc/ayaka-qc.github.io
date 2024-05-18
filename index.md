@@ -41,6 +41,8 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
   - Asia-Pacific Youth Representative organized by OECD and Youth Wise (OECD’s Youth Advisory Committee)
 - [Global Leadership Training Program](https://www.gltp-tokyo.com/) / Sep 2023 - Nov 2023
   - Certificate of Completion, November 2023 certified by GLTP Tokyo and Tobitate! Study Abroad Initiative
+- Christian Mission Service Philippines / June 2013 - September 2014
+  - Volunteering - Support children’s education at the childcare organization that provides comprehensive nurturing services
 
 # Publications
 1. Ayaka Naganuma, Makiko Fukami, Takaho Ueda, ”Research on the conditions for the Territorial Approach, a regional development method, and the need for regional branding”, 2024 (Under Review).
