@@ -29,9 +29,9 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 # Work Experience
 
 - [United Nations Information Center Tokyo](https://www.unic.or.jp/info/un_agencies_japan/unic/?lang=en) / Jan 2023 - Mar 2023
-  - Strategic Communication Intern
+  - Strategic Communication Intern 
 - [Relo Vacations, Ltd.](https://www.relo.jp/english/group/tourism/) / Apr 2019 - Dec 2021
-  - Marketing Specialist, and Revenue and Brand Manager
+  - Marketing Specialist, and Revenue and Brand Manager for local inns and hotels having financial difficulties
 - [Kanagawa Prefectural Government](https://www.pref.kanagawa.jp/) / Apr 2017 - Mar 2019
   - Public Servant at Future Generation Development Department Private School Affairs Division
 
