@@ -20,3 +20,9 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 - Apr 2022 - Mar 2024 Research Assistant at Gakushuin University Research Institute of Economics and Management
   - Supervisor: Prof. Takaho Ueda
   - Topic: Study of the applicability of the Territorial Approach to regional development in Japan based on comparative analysis with Italy and developing countries.
+ 
+# Work Experience
+
+- Jan 2023 - Mar 2023 Strategic Communication Intern at United Nations Information Center Tokyo
+- Apr 2019 - Dec 2021 Marketing Specialist, and Revenue and Brand Manager at Relo Vacations, Ltd.
+- Apr 2017 - Mar 2019 Public servant at Kanagawa Prefectural Government
