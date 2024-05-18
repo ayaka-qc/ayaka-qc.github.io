@@ -8,12 +8,13 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 # Education
 
 - Sep 2024 - Aug 2026 (Expected) Master of Arts - MA, Public and International Affairs / University of Ottawa
+- May 2022 - Dec 2023 Courses of English for Professional Communication / McGill University School of Continuing Studies
 - Apr 2013 - Mar 2017 Bachelor of Arts and Science, Global cooperation and Area studies / Yokohama City University 
 
 # Research Experience
 
-- Research Assistant at DENSO IT Laboratory
-  - Supervisor : Prof. Ikuro Sato
-  - Topic: Generalization and Optimization in Deep Learning
+- April 2023 - Present Research Assistant at Concordia University Institute for Cultural-Clinical Psychology
+  - Supervisor: Prof. Andrew G. Ryder
+  - Topic: Cultural acculturation on the mental well-being and social support needs of Japanese immigrants in Canada through comprehensive statistical analysis.
 
 
