@@ -10,7 +10,7 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 - [University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Aug 2026 (Expected)
   - Master of Arts - MA, Public and International Affairs
 - [McGill University](https://www.mcgill.ca/) / May 2022 - Dec 2023
-  - School of Continuing Studies. Courses of English for Professional Communication
+  - School of Continuing Studies. Courses for Professional Communication
 - [Yokohama City University](https://www-user.yokohama-cu.ac.jp/~english/) / Apr 2013 - Mar 2017 
   - Bachelor of Arts and Science, Global cooperation and Area studies
 
