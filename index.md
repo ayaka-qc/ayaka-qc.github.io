@@ -43,6 +43,10 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
   - Public Servant at Future Generation Development Department Private School Affairs Division
 
 # Other Experience
+- [UN ESCAP (UN Economic and Social Commission for Asia and the Pacific) ](https://www.unescap.org/our-work/countries-special-situations/ldc) / Oct 2024 - Dec 2024
+  - Data Analyst through United Nations Volunteer Online. Analyzing specific data elements of assigned Voluntary National Review (2016-2024) and providing summary statistics in a ‘data dictionary’ provided by UNSD/ESCAP to identify relevant trends, patterns, and key findings.
+- [Southern Africa Embrace Foundation](https://sae-foundation.org/) / Sep 2024 - Nov 2024
+  - Fundraising Coordinator through United Nations Volunteer Online.
 - [United People Global](http://www.unitedpeople.global) / Mar 2024 - Jun 2024
   - Completed the UPG Sustainability Leaders 2024 certified by United People Global with distinction, a non-profit organization based in Geneva, Switzerland
 - [OECD Youth Consultation - Asia-Pacific](https://www.oecd.org/about/civil-society/youth/youthwise/) / Feb 2024
