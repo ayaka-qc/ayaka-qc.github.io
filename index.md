@@ -54,10 +54,14 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 - [Christian Mission Service Philippines](https://cms.org.ph/) / June 2013 - September 2014
   - Volunteering - Support children’s education at the childcare organization that provides comprehensive nurturing services
 
+# Awards
+Ayaka Naganuma, ”The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue
+Education and Community: Based on Articles from the North American Post in the 1950s”, [JICA academic essay
+contest on Japanese emigration in North America](https://www.jica.go.jp/domestic/jomm/whatsnew/2023/1526419_24083.html), Oct 2024. Excellence Award.
+
 # Publications
-1. Ayaka Naganuma, Makiko Fukami, Takaho Ueda, ”Research on the conditions for the Territorial Approach, a regional development method, and the need for regional branding”, 2024 (Under Review).
-2. Ayaka Naganuma,” The possibility of regional development and tourism development in Japan through voluntary and collaborative sustainable tourism on isolated islands”, 5th Tourism Paper Award Contest / TAP Inc., August 2022.
-3. 村田彩花（旧姓表記）. 2016. 産業集積地域である東京都大田区における中小企業の海外展開について. 学士論文、横浜市立大学国際総合科学部国際都市学系、横浜市. (成績: 秀)
+1. Ayaka Naganuma,” The possibility of regional development and tourism development in Japan through voluntary and collaborative sustainable tourism on isolated islands”, 5th Tourism Paper Award Contest / TAP Inc., August 2022.
+2. 村田彩花（旧姓表記）. 2016. 産業集積地域である東京都大田区における中小企業の海外展開について. 学士論文、横浜市立大学国際総合科学部国際都市学系、横浜市. (成績: 秀)
 
 # Presentations
 1. Ayaka Naganuma*, Momoka Sunohara*, Presentation on ”Review of Research on Needs and Sources of Support in Social Support”, Joint Research Presentation of Concordia University and ISCTE-IUL, September 2023. (* denotes equal contribution)
