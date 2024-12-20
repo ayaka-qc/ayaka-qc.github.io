@@ -15,16 +15,19 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
   - Bachelor of Arts and Science, Global cooperation and Area studies
 
 # Research Experience
-
+- [Broadbent Institute](https://www.broadbentinstitute.ca/) / Jan 2025 - Apr 2025 (Expected)
+  - Policy Research Analyst
+  - Supervisor: Clement Nocos
+  - Topic: Labor Mobility and Just Transition in Canada’s High-Emission Sectors in Canada
 - [Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / October 2024 - September 2025 (Expected)
   - Visiting Fellow 
-  - Supervisor: TBD
-  - Topic: Research on climate change adaptation strategies and internal migration in small island developing states
-- [University of Ottawa](https://www.uottawa.ca/en) / August 2024 - Present
+  - Supervisor: Mikiyasu Nakayama and Naori Miyazawa
+  - Topic: Climate change adaptation strategies and internal migration in small island developing states
+- [University of Ottawa](https://www.uottawa.ca/en) / Aug 2024 - Present
   - Research Assistant at the Telfer School of Management 
   - Supervisor: Prof. Nelson Dueñas
   - Topic: Accounting and management in locally-led international development implemented in the Global South
-- [Concordia University](https://www.concordia.ca/) / April 2023 - August 2024
+- [Concordia University](https://www.concordia.ca/) / Apr 2023 - Aug 2024
   - Research Assistant at the Institute for Cultural-Clinical Psychology 
   - Supervisor: Prof. Andrew G. Ryder
   - Topic: Cultural acculturation on the mental well-being and social support needs of Japanese immigrants in Canada through comprehensive statistical analysis.
