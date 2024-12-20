@@ -19,7 +19,7 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 - [Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / October 2024 - September 2025 (Expected)
   - Visiting Fellow 
   - Supervisor: TBD
-  - Topic: Research on climate change adaptation strategies and climate change-related migration in small island developing states
+  - Topic: Research on climate change adaptation strategies and internal migration in small island developing states
 - [University of Ottawa](https://www.uottawa.ca/en) / August 2024 - Present
   - Research Assistant at the Telfer School of Management 
   - Supervisor: Prof. Nelson Dueñas
