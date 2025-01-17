@@ -21,7 +21,7 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
 # Research Experience
 - [Broadbent Institute](https://www.broadbentinstitute.ca/) / Jan 2025 - Apr 2025 (Expected)
   - Graduate Policy Researcher
-  - Supervisor: Clement Nocos
+  - Supervisor: [Clement Nocos, Director of Policy and Engagement](https://broadbentinstitute.ca/people/clement-nocos/)
   - Topic: Labor Mobility and Just Transition in Canada’s High-Emission Sectors in Canada
 - [Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / October 2024 - September 2025 (Expected)
   - Visiting Fellow 
