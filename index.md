@@ -29,7 +29,7 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
   - Topic: Climate change adaptation strategies and internal migration in small island developing states
 - [University of Ottawa](https://www.uottawa.ca/en) / Aug 2024 - Present
   - Research Assistant at the Telfer School of Management 
-  - Supervisor: Prof. Nelson Dueñas
+  - Supervisor: [Prof. Nelson Dueñas](https://telfer.uottawa.ca/en/directory/nelson-duenas/)
   - Topic: Accounting and management in locally-led international development implemented in the Global South
 - [Concordia University](https://www.concordia.ca/) / Apr 2023 - Aug 2024
   - Research Assistant at the Institute for Cultural-Clinical Psychology 
