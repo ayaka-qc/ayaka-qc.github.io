@@ -13,7 +13,7 @@ Hi! I am Ayaka Naganuma, an incoming master's student in Public and Internationa
   - School of Continuing Studies. Courses for Professional Communication
 - [Yokohama City University](https://www-user.yokohama-cu.ac.jp/~english/) / Apr 2013 - Mar 2017 
   - Bachelor of Arts and Science, Global cooperation and Area studies
-  - Dissertation: "Overseas Expansion of small and medium-sized enterprises(SMEs) in Ota-ku, Tokyo: Foreign Direct Investment in Thailand and the Clustering of SMEs" Supervisor: Prof. Eiichi Yoshida
+  - Dissertation: "Overseas Expansion of Small and medium-sized Enterprises (SMEs) in Ota-ku, Tokyo: Foreign Direct Investment in Thailand and the Clustering of SMEs" Supervisor: Prof. Eiichi Yoshida
 
 # Research Experience
 - [Broadbent Institute](https://www.broadbentinstitute.ca/) / Jan 2025 - Apr 2025 (Expected)
