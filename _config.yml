@@ -2,10 +2,13 @@ theme: jekyll-theme-minimal
 logo: /assets/img/profile.jpg
 title: Ayaka (Murata) Naganuma
 description: ""
-github_username:  ayaka-qc
+github_username: ayaka-qc
 
 github:
-  is_project_page: false
+  is_project_page: false  # ユーザーページの場合は false にしておく
+  repository_url: "https://www.linkedin.com/in/ayaka-naganuma-065879117/"
+  owner_url: "https://www.linkedin.com/in/ayaka-naganuma-065879117/"
 
 include:
   - _pages
+
