@@ -88,9 +88,9 @@ contest on Japanese emigration in North America](https://www.jica.go.jp/domestic
 
 # Skills Summary
 - Language
-  - Japanese(Native)
-  - English(Advanced, IELTS(Overall: 7.0(C1)): March 2024)
-  - French(Elementary proficiency)
+  - Japanese (Native)
+  - English (Advanced, IELTS(Overall: 7.0(C1)): March 2024)
+  - French (Elementary proficiency)
 - Programming
   - Python (including statistical analysis by using scikit-learn and pytorch)
   - LaTeX
