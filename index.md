@@ -71,6 +71,11 @@ Ayaka Naganuma, ”The Loneliness Faced by Japanese Immigrants and the Importanc
 Education and Community: Based on Articles from the North American Post in the 1950s”, [JICA academic essay
 contest on Japanese emigration in North America](https://www.jica.go.jp/domestic/jomm/whatsnew/2023/1526419_24083.html), Oct 2024. Excellence Award.
 
+# Scholarships
+- Japanese Government Scholarship (Graduate School Degree Acquisition Type)/2025-2026/ [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html)
+- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Winter)/ 2025 / the University of Ottawa
+- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Fall)/ 2024 / the University of Ottawa
+
 # Publications
 1. Ayaka Naganuma,” The possibility of regional development and tourism development in Japan through voluntary and collaborative sustainable tourism on isolated islands”, 5th Tourism Paper Award Contest / TAP Inc., August 2022.
 2. 村田彩花（旧姓表記）. 2016. 産業集積地域である東京都大田区における中小企業の海外展開について. 学士論文、横浜市立大学国際総合科学部国際都市学系、横浜市. (成績: 秀)
