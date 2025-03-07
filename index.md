@@ -72,12 +72,15 @@ Education and Community: Based on Articles from the North American Post in the 1
 contest on Japanese emigration in North America](https://www.jica.go.jp/domestic/jomm/whatsnew/2023/1526419_24083.html), Oct 2024. Excellence Award.
 
 # Scholarships
-- Japanese Government Scholarship (Graduate School Degree Acquisition Type) / Sep 2025 - Aug 2026
+- Japanese Government Scholarship (Graduate School Degree Acquisition Type)
   - funded by [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html)
-- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Winter) / Feb 2025
+  - Sep 2025 - Aug 2026
+- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Winter)
   - funded by the University of Ottawa
-- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Fall) / Oct 2024
+  - Feb 2025
+- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Fall)
   - funded by the University of Ottawa
+  - Oct 2024
 
 # Publications
 1. Ayaka Naganuma,” The possibility of regional development and tourism development in Japan through voluntary and collaborative sustainable tourism on isolated islands”, 5th Tourism Paper Award Contest / TAP Inc., August 2022.
