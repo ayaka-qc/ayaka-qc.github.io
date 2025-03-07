@@ -22,7 +22,7 @@ Hi! I am Ayaka Naganuma, a master's student in Public and International Affairs 
 - [Broadbent Institute](https://www.broadbentinstitute.ca/) / Jan 2025 - Apr 2025 (Expected)
   - Graduate Policy Researcher
   - Supervisor: [Clement Nocos](https://broadbentinstitute.ca/people/clement-nocos/), Director of Policy and Engagement
-  - Topic: Labor Mobility and Just Transition in Canada’s High-Emission Sectors in Canada
+  - Topic: Labor Mobility and Just Transition in Canada’s High-Emission Sectors
 - [Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / October 2024 - September 2025 (Expected)
   - Visiting Fellow 
   - Supervisor: Mikiyasu Nakayama and Naori Miyazawa
@@ -72,9 +72,12 @@ Education and Community: Based on Articles from the North American Post in the 1
 contest on Japanese emigration in North America](https://www.jica.go.jp/domestic/jomm/whatsnew/2023/1526419_24083.html), Oct 2024. Excellence Award.
 
 # Scholarships
-- Japanese Government Scholarship (Graduate School Degree Acquisition Type)/2025-2026/ [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html)
-- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Winter)/ 2025 / the University of Ottawa
-- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Fall)/ 2024 / the University of Ottawa
+- Japanese Government Scholarship (Graduate School Degree Acquisition Type)
+  - 2025-2026/ [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html)
+- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Winter)
+  - 2025 / the University of Ottawa
+- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Fall)
+  - 2024 / the University of Ottawa
 
 # Publications
 1. Ayaka Naganuma,” The possibility of regional development and tourism development in Japan through voluntary and collaborative sustainable tourism on isolated islands”, 5th Tourism Paper Award Contest / TAP Inc., August 2022.
