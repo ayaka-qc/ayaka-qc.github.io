@@ -63,7 +63,7 @@ Hi! I am Ayaka Naganuma, a master's student in Public and International Affairs 
   - Certificate of Completion, November 2023 certified by GLTP Tokyo and Tobitate! Study Abroad Initiative
 - Tokyo Metropolitan Government / September 2022 - December 2022
   - Training - Human Resources Development Project for Tourism Management
-- [Christian Mission Service Philippines](https://cms.org.ph/) / June 2013 - September 2014
+- [Christian Mission Service Philippines](https://cms.org.ph/) / June 2013 - Sep 2014
   - Volunteering - Support children’s education at the childcare organization that provides comprehensive nurturing services
 
 # Awards
@@ -72,12 +72,12 @@ Education and Community: Based on Articles from the North American Post in the 1
 contest on Japanese emigration in North America](https://www.jica.go.jp/domestic/jomm/whatsnew/2023/1526419_24083.html), Oct 2024. Excellence Award.
 
 # Scholarships
-- Japanese Government Scholarship (Graduate School Degree Acquisition Type)
-  - 2025-2026/ [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html)
-- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Winter)
-  - 2025 / the University of Ottawa
-- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Fall)
-  - 2024 / the University of Ottawa
+- Japanese Government Scholarship (Graduate School Degree Acquisition Type) / Sep 2025 - Aug 2026
+  - funded by [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html)
+- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Winter) / Feb 2025
+  - funded by the University of Ottawa
+- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Fall) / Oct 2024
+  - funded by the University of Ottawa
 
 # Publications
 1. Ayaka Naganuma,” The possibility of regional development and tourism development in Japan through voluntary and collaborative sustainable tourism on isolated islands”, 5th Tourism Paper Award Contest / TAP Inc., August 2022.
