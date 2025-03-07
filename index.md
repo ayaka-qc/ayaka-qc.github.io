@@ -76,10 +76,10 @@ contest on Japanese emigration in North America](https://www.jica.go.jp/domestic
   - funded by [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html)
   - Sep 2025 - Aug 2026
 - Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Winter)
-  - funded by the University of Ottawa
+  - funded by [University of Ottawa](https://www.uottawa.ca/en)
   - Feb 2025
 - Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Fall)
-  - funded by the University of Ottawa
+  - funded by [University of Ottawa](https://www.uottawa.ca/en)
   - Oct 2024
 
 # Publications
