@@ -22,7 +22,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 # Research Experience
 - [Broadbent Institute](https://www.broadbentinstitute.ca/) / Jan 2025 - Apr 2025 (Expected)
   - Graduate Policy Researcher
-  - Supervisor: [Clement Nocos](https://broadbentinstitute.ca/people/clement-nocos/), Director of Policy and Engagement
+  - Supervisor: [Mr. Clement Nocos](https://broadbentinstitute.ca/people/clement-nocos/), Director of Policy and Engagement
   - Topic: Labor Mobility and Just Transition in Canada’s High-Emission Sectors
 - [Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / October 2024 - September 2025 (Expected)
   - Visiting Fellow 
