@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Hi! I am Ayaka Naganuma, an incoming intern at the UNFCCC and a master's student in Public and International Affairs at the University of Ottawa. I have experience in local government in Japan, regional revitalization, and UN communications. My research focuses on climate adaptation, disaster resilience, migration, and social infrastructure development using both qualitative and quantitative methods. I am passionate about policy analysis and the intersection of environment and economic policy.
+Hi! I am Ayaka Naganuma, an incoming intern at the UNFCCC and a master's student in Public and International Affairs at the University of Ottawa. I have experience in local government in Japan, regional revitalization, and UN communications. 
+
+My research focuses on climate adaptation, disaster resilience, migration, and social infrastructure development using both qualitative and quantitative methods. I am passionate about policy analysis and the intersection of environment and economic policy.
 
 # Education
 
