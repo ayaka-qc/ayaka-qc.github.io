@@ -42,6 +42,8 @@ Hi! I am Ayaka Naganuma, a master's student in Public and International Affairs 
  
 # Work Experience
 
+- [United Nations Framework Convention on Climate Chnage](https://unfccc.int/) / Oct 2025 - Mar 2026
+  - Intern for the Adaptation Division, Vulnerability sub-division
 - [United Nations Information Center Tokyo](https://www.unic.or.jp/info/un_agencies_japan/unic/?lang=en) / Jan 2023 - Mar 2023
   - Strategic Communication Intern 
 - [Relo Vacations, Ltd.](https://www.relo.jp/english/group/tourism/) / Apr 2019 - Dec 2021
