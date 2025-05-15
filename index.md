@@ -89,14 +89,17 @@ contest on Japanese emigration in North America](https://www.jica.go.jp/domestic
   - Oct 2024
 
 # Publications
-1. Ayaka Naganuma,” The possibility of regional development and tourism development in Japan through voluntary and collaborative sustainable tourism on isolated islands”, 5th Tourism Paper Award Contest / TAP Inc., August 2022.
-2. 村田彩花（旧姓表記）. 2016. 産業集積地域である東京都大田区における中小企業の海外展開について. 学士論文、横浜市立大学国際総合科学部国際都市学系、横浜市. (成績: 秀)
+1. Ayaka Naganuma, [”Bridging the Transition: Perspectives on Economic Transition and Policy Strategies,”
+Broadbent Institute](https://broadbentinstitute.ca/research/bridging-the-transition/), Apr 2025.
+2. Ayaka Naganuma,” The possibility of regional development and tourism development in Japan through voluntary and collaborative sustainable tourism on isolated islands”, 5th Tourism Paper Award Contest / TAP Inc., August 2022.
+3. 村田彩花（旧姓表記）. 2016. 産業集積地域である東京都大田区における中小企業の海外展開について. 学士論文、横浜市立大学国際総合科学部国際都市学系、横浜市. (成績: 秀)
 
 # Presentations
-1. Ayaka Naganuma*, Momoka Sunohara*, Presentation on ”Review of Research on Needs and Sources of Support in Social Support”, Joint Research Presentation of Concordia University and ISCTE-IUL, September 2023. (* denotes equal contribution)
-2. Ayaka Naganuma, Presentation on ”Canadian Immigration Research: Overview of Canadian Immigration Policies and Current Challenges”, Tsukuba University International Migration Research Group, June 2023.
-3. Ayaka Naganuma, Presentation on ”Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy”, Gakusyuin University Institute of Economic Research June Monthly Research Presentation, June 2023.
-4. Ayaka Naganuma, Presentation on ”SDGs and Regional Promotion: A Case Study of Olive Island Creation in Shodoshima, Kagawa Prefecture,”, Gakusyuin University Institute of Economic Research May Monthly Research Presentation, May 2023.
+1. Ayaka Naganuma, [Presentation on ”Bridging the Transition: Perspectives on Economic Transition and Policy Strategies,” Broadbent Institute Progress Summit 2025, Workshop – Green Industrial Policy for Canada to Fight Today’s Climate Emergency and Trade War](https://broadbentinstitute.ca/research/bridging-the-transition/), Apr 2025.
+2. Ayaka Naganuma*, Momoka Sunohara*, Presentation on ”Review of Research on Needs and Sources of Support in Social Support”, Joint Research Presentation of Concordia University and ISCTE-IUL, September 2023. (* denotes equal contribution)
+3. Ayaka Naganuma, Presentation on ”Canadian Immigration Research: Overview of Canadian Immigration Policies and Current Challenges”, Tsukuba University International Migration Research Group, June 2023.
+4. Ayaka Naganuma, Presentation on ”Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy”, Gakusyuin University Institute of Economic Research June Monthly Research Presentation, June 2023.
+5. Ayaka Naganuma, Presentation on ”SDGs and Regional Promotion: A Case Study of Olive Island Creation in Shodoshima, Kagawa Prefecture,”, Gakusyuin University Institute of Economic Research May Monthly Research Presentation, May 2023.
 
 # Community
 - Ottawa Japanese Researchers Association: Member
