@@ -26,7 +26,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
   - Topic: Labor Mobility and Just Transition in Canada’s High-Emission Sectors
 - [Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / October 2024 - September 2025 (Expected)
   - Visiting Fellow 
-  - Supervisor: Mikiyasu Nakayama and Naori Miyazawa
+  - Supervisor: [Mr. Mikiyasu Nakayama](https://gif.or.jp/wp-content/uploads/2025/05/GIF_Researcher_Nakayama_20250423.pdf) and [Ms. Naori Miyazawa]
   - Topic: Climate change adaptation strategies and internal migration in small island developing states
 - [University of Ottawa](https://www.uottawa.ca/en) / Aug 2024 - Present
   - Research Assistant at the Telfer School of Management 
