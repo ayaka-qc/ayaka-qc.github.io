@@ -43,6 +43,8 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
  
 # Work Experience
 
+- [UN-Habitat Canada Office](https://unhabitat.org/news/13-dec-2022/united-nations-program-montreal-to-host-un-habitat-project-office) / Apr 2026 - July 2026
+  - Intern for Urban Data Collection and Analysis
 - [United Nations Framework Convention on Climate Chnage](https://unfccc.int/) / Oct 2025 - Mar 2026
   - Intern for the Adaptation Division, Vulnerability sub-division
 - [United Nations Information Center Tokyo](https://www.unic.or.jp/info/un_agencies_japan/unic/?lang=en) / Jan 2023 - Mar 2023
