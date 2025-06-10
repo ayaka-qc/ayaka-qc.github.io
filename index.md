@@ -59,7 +59,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 Naganuma, A. (October 2024). [*“The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s”*](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html). Japan International Cooperation Agency.
 
 # Scholarships  
-- **Japanese Government (MEXT) Scholarship** — Graduate-Degree Program  
+- **Japanese Government Scholarship** — Graduate-Degree Program  
   - Funded by the [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html) (Sep 2025 – Aug 2026)  
 - **[GSPIA Imagination Scholarship 2025](https://www.uottawa.ca/faculty-social-sciences/news-all/2025-gspia-imagination-scholarship-recipients)**  
   - Funded by the Graduate School of Public and International Affairs, [University of Ottawa](https://www.uottawa.ca/en) (Mar 2025) 
