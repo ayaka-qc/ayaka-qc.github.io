@@ -56,7 +56,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 
 # Awards  
 **Excellence Award**, JICA Academic Essay Contest on Japanese Emigration in North America  
-Naganuma, A. (October 2024). *“The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s”*. Japan International Cooperation Agency.
+Naganuma, A. (October 2024). [*“The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s”*](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html). Japan International Cooperation Agency.
 
 # Scholarships  
 - **Japanese Government (MEXT) Scholarship** — Graduate-Degree Program  
