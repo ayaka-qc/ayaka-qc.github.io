@@ -84,7 +84,7 @@ Broadbent Institute](https://broadbentinstitute.ca/research/bridging-the-transit
    - Status: Status: Analysis complete; manuscript in preparation for Journal of Disaster Research (planned submission: Jan 2026).
 3. Naganuma, A. “Impact of the EU's Carbon Border Adjustment Mechanism and Canada's carbon pricing:
 A partial equilibrium approach to Canada’s steel sector.”
-　　- Status: initial draft complete; revisions underway. Journal submission planned (venue TBD); SSRN preprint forthcoming.
+   - Status: initial draft complete; revisions underway. Journal submission planned (venue TBD); SSRN preprint forthcoming.
 
 # Presentations
 1. Naganuma, A., [Presentation on ”Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition,” Broadbent Institute Progress Summit 2025, Workshop – Green Industrial Policy for Canada to Fight Today’s Climate Emergency and Trade War](https://broadbentinstitute.ca/research/bridging-the-transition/), Apr 2025.
