@@ -62,7 +62,7 @@ Naganuma, A. (October 2024). [*“The Loneliness Faced by Japanese Immigrants an
 - **Japanese Government (MEXT) Scholarship** — Graduate-Degree Program  
   - Funded by the [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html) (Sep 2025 – Aug 2026)  
 - **[GSPIA Imagination Scholarship 2025](https://www.uottawa.ca/faculty-social-sciences/news-all/2025-gspia-imagination-scholarship-recipients)**  
-  - Funded by the Graduate School of Public and International Affairs, University of Ottawa (Mar 2025) 
+  - Funded by the Graduate School of Public and International Affairs, [University of Ottawa](https://www.uottawa.ca/en) (Mar 2025) 
 - **CUPE 2626 Tuition Fund Financial Aid** — Article 27.3 (Winter disbursement)  
   - Funded by the [University of Ottawa](https://www.uottawa.ca/en) (Feb 2025)  
 - **CUPE 2626 Tuition Fund Financial Aid** — Article 27.3 (Fall disbursement)  
