@@ -79,7 +79,7 @@ Broadbent Institute](https://broadbentinstitute.ca/research/bridging-the-transit
 2. Ayaka Naganuma,” The possibility of regional development and tourism development in Japan through voluntary and collaborative sustainable tourism on isolated islands”, 5th Tourism Paper Award Contest / TAP Inc., August 2022.
 
 # Presentations
-1. Ayaka Naganuma, [Presentation on ”Bridging the Transition: Perspectives on Economic Transition and Policy Strategies,” Broadbent Institute Progress Summit 2025, Workshop – Green Industrial Policy for Canada to Fight Today’s Climate Emergency and Trade War](https://broadbentinstitute.ca/research/bridging-the-transition/), Apr 2025.
+1. Ayaka Naganuma, [Presentation on ”Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition,” Broadbent Institute Progress Summit 2025, Workshop – Green Industrial Policy for Canada to Fight Today’s Climate Emergency and Trade War](https://broadbentinstitute.ca/research/bridging-the-transition/), Apr 2025.
 2. Ayaka Naganuma*, Momoka Sunohara*, Presentation on ”Review of Research on Needs and Sources of Support in Social Support”, Joint Research Presentation of Concordia University and ISCTE-IUL, September 2023. (* denotes equal contribution)
 3. Ayaka Naganuma, Presentation on ”Canadian Immigration Research: Overview of Canadian Immigration Policies and Current Challenges”, Tsukuba University International Migration Research Group, June 2023.
 4. Ayaka Naganuma, Presentation on ”Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy”, Gakusyuin University Institute of Economic Research June Monthly Research Presentation, June 2023.
