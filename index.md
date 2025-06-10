@@ -55,8 +55,8 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
   - Public Servant at Future Generation Development Department, Private School Affairs Division
 
 # Awards  
-**Excellence Award**, [JICA Academic Essay Contest on Japanese Emigration in North America](https://www.jica.go.jp/domestic/jomm/whatsnew/2023/1526419_24083.html)  
-Naganuma, A. (Oct 2024). **“The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s”**. Japan International Cooperation Agency.
+**Excellence Award**, JICA Academic Essay Contest on Japanese Emigration in North America 
+Naganuma, A. (Oct 2024). **[“The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s”](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html)**. Japan International Cooperation Agency.
 
 # Scholarships  
 - **Japanese Government (MEXT) Scholarship** — Graduate-Degree Program  
@@ -69,7 +69,7 @@ Naganuma, A. (Oct 2024). **“The Loneliness Faced by Japanese Immigrants and th
   - Funded by the [University of Ottawa](https://www.uottawa.ca/en) (Oct 2024)  
 
 # Published Paper
-1. Naganuma, A. (Apr 2025). **[Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition](https://broadbentinstitute.ca/research/bridging-the-transition/)**. Broadbent Institute.
+1. Naganuma, A. (Apr 2025). **["Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition"](https://broadbentinstitute.ca/research/bridging-the-transition/)**. Broadbent Institute.
 
 # Working Papers
 1. Naganuma, A. "Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis."
