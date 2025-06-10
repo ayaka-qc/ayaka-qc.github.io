@@ -54,20 +54,20 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 - [Kanagawa Prefectural Government](https://www.pref.kanagawa.jp/) / Apr 2017 - Mar 2019
   - Public Servant at Future Generation Development Department, Private School Affairs Division
 
-# Awards
-Ayaka Naganuma, ”The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue
-Education and Community: Based on Articles from the North American Post in the 1950s”, [JICA academic essay
-contest on Japanese emigration in North America](https://www.jica.go.jp/domestic/jomm/whatsnew/2023/1526419_24083.html), Oct 2024. Excellence Award.
+# Awards  
+**Excellence Award**, [JICA Academic Essay Contest on Japanese Emigration in North America](https://www.jica.go.jp/domestic/jomm/whatsnew/2023/1526419_24083.html)  
+*“The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community:  
+Based on Articles from the North American Post in the 1950s”* — Ayaka Naganuma (Oct 2024)
 
-# Scholarships
-- Japanese Government Scholarship (Graduate School Degree Acquisition Type)
-  - funded by [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html) (Sep 2025 - Aug 2026).
-- [GSPIA Imagination Scholarship 2025](https://www.uottawa.ca/faculty-social-sciences/news-all/2025-gspia-imagination-scholarship-recipients)
-  - funded by [Graduate School of Public and International Affairs, University of Ottawa](https://www.uottawa.ca/faculty-social-sciences/public-international-affairs/graduate) (Mar 2025).
-- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Winter)
-  - funded by [University of Ottawa](https://www.uottawa.ca/en) (Feb 2025).
-- Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Fall)
-  - funded by [University of Ottawa](https://www.uottawa.ca/en) (Oct 2024).
+# Scholarships  
+- **Japanese Government (MEXT) Scholarship** — Graduate-Degree Program  
+  - Funded by the [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html) (Sep 2025 – Aug 2026)  
+- **GSPIA Imagination Scholarship 2025**  
+  - Funded by the [Graduate School of Public and International Affairs, University of Ottawa](https://www.uottawa.ca/faculty-social-sciences/public-international-affairs/graduate) (Mar 2025)  
+- **CUPE 2626 Tuition Fund Financial Aid** — Article 27.3 (Winter disbursement)  
+  - Funded by the [University of Ottawa](https://www.uottawa.ca/en) (Feb 2025)  
+- **CUPE 2626 Tuition Fund Financial Aid** — Article 27.3 (Fall disbursement)  
+  - Funded by the [University of Ottawa](https://www.uottawa.ca/en) (Oct 2024)  
 
 # Published Paper
 1. Naganuma, A., [”Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition”
