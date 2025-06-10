@@ -70,7 +70,7 @@ Based on Articles from the North American Post in the 1950s”*, Oct 2024)
   - Funded by the [University of Ottawa](https://www.uottawa.ca/en) (Oct 2024)  
 
 # Published Paper
-1. Naganuma, A. (April 2025). [*"Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition"*.](<https://broadbentinstitute.ca/research/bridging-the-transition/>) Broadbent Institute, April 2025.
+1. Naganuma, A. (April 2025). *"Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition"*. Broadbent Institute. April 2025. <https://broadbentinstitute.ca/research/bridging-the-transition/>
 
 # Working Papers
 1. Naganuma, A. "Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis."
