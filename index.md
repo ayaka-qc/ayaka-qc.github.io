@@ -62,7 +62,7 @@ contest on Japanese emigration in North America](https://www.jica.go.jp/domestic
 # Scholarships
 - Japanese Government Scholarship (Graduate School Degree Acquisition Type)
   - funded by [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html) (Sep 2025 - Aug 2026).
-- GSPIA Imagination Scholarship
+- [GSPIA Imagination Scholarship 2025](https://www.uottawa.ca/faculty-social-sciences/news-all/2025-gspia-imagination-scholarship-recipients)
   - funded by [Graduate School of Public and International Affairs, University of Ottawa](https://www.uottawa.ca/faculty-social-sciences/public-international-affairs/graduate) (Mar 2025).
 - Financial aid and awards (Art. 27.3 Tuition Fund CUPE2626/CUPE Employees Financial Aid/Local 2626 - Winter)
   - funded by [University of Ottawa](https://www.uottawa.ca/en) (Feb 2025).
