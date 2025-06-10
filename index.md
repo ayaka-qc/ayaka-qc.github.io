@@ -9,13 +9,13 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 # Education
 
 - [University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Aug 2026 (Expected)
-  - Master of Arts - MA, Public and International Affairs
+  - Master of Arts in Public and International Affairs
   - Supervisor: [Prof. Nicholas Rivers](https://sites.google.com/site/nicholasjrivers/)
   - Research Paper Topic: ”Post-Disaster Economic Dynamics: Evidence from a Major Natural Disaster in Canada”
 - [McGill University](https://www.mcgill.ca/) / May 2022 - Dec 2023
   - School of Continuing Studies. Courses for Professional Communication
 - [Yokohama City University](https://www-user.yokohama-cu.ac.jp/~english/) / Apr 2013 - Mar 2017 
-  - Bachelor of Arts and Science, Global cooperation and Area studies
+  - Bachelor of Arts and Science, Global, Regional, and Urban Studies
   - Supervisor: [Prof. Eiichi Yoshida](https://www.yokohama-cu.ac.jp/researcher/yoshidaeiichi.html)
   - Dissertation: "Overseas Expansion of Small and Medium-sized Enterprises (SMEs) in Ota-ku, Tokyo: Foreign Direct Investment in Thailand and the Clustering of SMEs" 
 
