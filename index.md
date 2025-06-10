@@ -8,50 +8,50 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 
 # Education
 
-- [University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Sep 2026 (Expected)
+- **[University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Sep 2026 (Expected)**
   - Master of Arts in Public and International Affairs
   - Supervisor: [Prof. Nicholas Rivers](https://sites.google.com/site/nicholasjrivers/)
   - Research Paper Topic: ”Post-Disaster Economic Dynamics: Evidence from a Major Natural Disaster in Canada”
-- [McGill University](https://www.mcgill.ca/) / May 2022 - Dec 2023
+- **[McGill University](https://www.mcgill.ca/) / May 2022 - Dec 2023**
   - School of Continuing Studies. Courses for Professional Communication
-- [Yokohama City University](https://www-user.yokohama-cu.ac.jp/~english/) / Apr 2013 - Mar 2017 
+- **[Yokohama City University](https://www-user.yokohama-cu.ac.jp/~english/) / Apr 2013 - Mar 2017**
   - Bachelor of Arts and Science, Global, Regional, and Urban Studies
   - Supervisor: [Prof. Eiichi Yoshida](https://www.yokohama-cu.ac.jp/researcher/yoshidaeiichi.html)
   - Dissertation: "Overseas Expansion of Small and Medium-sized Enterprises (SMEs) in Ota-ku, Tokyo: Foreign Direct Investment in Thailand and the Clustering of SMEs" 
 
 # Research Experience
-- [Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / Oct 2024 - Present
+- **[Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / Oct 2024 - Present**
   - Visiting Fellow 
   - Supervisor: [Mr. Mikiyasu Nakayama](https://gif.or.jp/wp-content/uploads/2025/05/GIF_Researcher_Nakayama_20250423.pdf) , Ms. Akiko Sakamoto, and Ms. Naori Miyazawa
   - Topic: Climate change adaptation strategies and internal migration in small island developing states
-- [Broadbent Institute](https://www.broadbentinstitute.ca/) / Jan 2025 - Apr 2025
+- **[Broadbent Institute](https://www.broadbentinstitute.ca/) / Jan 2025 - Apr 2025**
   - Graduate Policy Researcher
   - Supervisor: [Mr. Clement Nocos](https://broadbentinstitute.ca/people/clement-nocos/), Director of Policy and Engagement
   - Topic: Labor Mobility and Just Transition in Canada’s High-Emission Sectors
-- [University of Ottawa](https://www.uottawa.ca/en) / Aug 2024 - Sep 2024
+- **[University of Ottawa](https://www.uottawa.ca/en) / Aug 2024 - Sep 2024**
   - Research Assistant at the Telfer School of Management 
   - Supervisor: [Prof. Nelson Dueñas](https://telfer.uottawa.ca/en/directory/nelson-duenas/)
   - Topic: Accounting and management in locally-led international development implemented in the Global South
-- [Concordia University](https://www.concordia.ca/) / Apr 2023 - Aug 2024
+- **[Concordia University](https://www.concordia.ca/) / Apr 2023 - Aug 2024**
   - Research Assistant at the Institute for Cultural-Clinical Psychology 
   - Supervisor: Prof. Andrew G. Ryder
   - Topic: Cultural acculturation on the mental well-being and social support needs of Japanese immigrants in Canada through comprehensive statistical analysis.
-- [Gakushuin University](https://www.univ.gakushuin.ac.jp/en/) / Apr 2022 - Mar 2024 
+- **[Gakushuin University](https://www.univ.gakushuin.ac.jp/en/) / Apr 2022 - Mar 2024**
   - Research Assistant at the Research Institute of Economics and Management
   - Supervisor: Prof. Takaho Ueda
   - Topic: Study of the applicability of the Territorial Approach to regional development in Japan based on comparative analysis with Italy and developing countries.
  
 # Work Experience
 
-- [UN-Habitat Canada Office](https://unhabitat.org/news/13-dec-2022/united-nations-program-montreal-to-host-un-habitat-project-office) / Apr 2026 - July 2026
+- **[UN-Habitat Canada Office](https://unhabitat.org/news/13-dec-2022/united-nations-program-montreal-to-host-un-habitat-project-office) / Apr 2026 - July 2026 (Expected)**
   - Intern for Urban Data Collection and Analysis
-- [United Nations Framework Convention on Climate Chnage](https://unfccc.int/) / Oct 2025 - Mar 2026
+- **[United Nations Framework Convention on Climate Chnage](https://unfccc.int/) / Oct 2025 - Mar 2026 (Expected)**
   - Intern for the Adaptation Division, Vulnerability sub-division
-- [United Nations Information Center Tokyo](https://www.unic.or.jp/info/un_agencies_japan/unic/?lang=en) / Jan 2023 - Mar 2023
+- **[United Nations Information Center Tokyo](https://www.unic.or.jp/info/un_agencies_japan/unic/?lang=en) / Jan 2023 - Mar 2023**
   - Strategic Communication Intern 
-- [Relo Vacations, Ltd.](https://www.relo.jp/english/group/tourism/) / Apr 2019 - Dec 2021
+- **[Relo Vacations, Ltd.](https://www.relo.jp/english/group/tourism/) / Apr 2019 - Dec 2021**
   - Marketing Specialist, and Revenue and Brand Manager for local inns and hotels having financial difficulties
-- [Kanagawa Prefectural Government](https://www.pref.kanagawa.jp/) / Apr 2017 - Mar 2019
+- **[Kanagawa Prefectural Government](https://www.pref.kanagawa.jp/) / Apr 2017 - Mar 2019**
   - Public Servant at Future Generation Development Department, Private School Affairs Division
 
 # Awards  
@@ -80,7 +80,7 @@ A partial equilibrium approach to Canada’s steel sector.”
    - Status: initial draft complete; revisions underway. Journal submission planned (venue TBD); SSRN preprint forthcoming.
 
 # Presentations
-1. Naganuma, A., [Presentation on ”Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition,” Broadbent Institute Progress Summit 2025, Workshop – Green Industrial Policy for Canada to Fight Today’s Climate Emergency and Trade War](https://broadbentinstitute.ca/research/bridging-the-transition/), Apr 2025.
+1. Naganuma, A., **[Presentation on ”Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition,” Broadbent Institute Progress Summit 2025, Workshop – Green Industrial Policy for Canada to Fight Today’s Climate Emergency and Trade War](https://broadbentinstitute.ca/research/bridging-the-transition/)**, Apr 2025.
 2. Naganuma, A.\*, and Sunohara, M.\*. Presentation on ”Review of Research on Needs and Sources of Support in Social Support”, Joint Research Presentation of Concordia University and ISCTE-IUL, September 2023. (* denotes equal contribution)
 3. Naganuma, A., Presentation on ”Canadian Immigration Research: Overview of Canadian Immigration Policies and Current Challenges”, Tsukuba University International Migration Research Group, June 2023.
 4. Naganuma, A., Presentation on ”Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy”, Gakusyuin University Institute of Economic Research June Monthly Research Presentation, June 2023.
