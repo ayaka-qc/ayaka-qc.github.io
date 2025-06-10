@@ -8,7 +8,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 
 # Education
 
-- [University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Aug 2026 (Expected)
+- [University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Present
   - Master of Arts in Public and International Affairs
   - Supervisor: [Prof. Nicholas Rivers](https://sites.google.com/site/nicholasjrivers/)
   - Research Paper Topic: ”Post-Disaster Economic Dynamics: Evidence from a Major Natural Disaster in Canada”
