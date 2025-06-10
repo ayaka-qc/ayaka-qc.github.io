@@ -69,16 +69,17 @@ Naganuma, A. (October 2024). *“The Loneliness Faced by Japanese Immigrants and
   - Funded by the [University of Ottawa](https://www.uottawa.ca/en) (Oct 2024)  
 
 # Published Paper
-1. Naganuma, A. (April 2025). **["Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition"](https://broadbentinstitute.ca/research/bridging-the-transition/)**. Broadbent Institute.
+1. Naganuma, A. (April 2025). *[Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition](https://broadbentinstitute.ca/research/bridging-the-transition/)*. Broadbent Institute.
 
 # Working Papers
-1. Naganuma, A. "Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis."
+1. Naganuma, A. *Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis.*  
    - Status: Data access for Longitudinal Administrative Databank approved via Statistics Canada Research Data Centre.
-2. Naganuma, A.\*, Matsumoto, S.\*, Uakeia, T., and Nakayama, M. "Student Attitudes toward Climate Adaptation in Kiribati and the Marshall Islands: Evidence From USP-Tarawa and CMI Surveys."
-   - Status: Analysis complete; manuscript in preparation for Journal of Disaster Research (planned submission: January 2026).
-3. Naganuma, A. “Impact of the EU's Carbon Border Adjustment Mechanism and Canada's carbon pricing:
-A partial equilibrium approach to Canada’s steel sector.”
-   - Status: initial draft complete; revisions underway. Journal submission planned (venue TBD); SSRN preprint forthcoming.
+
+2. Naganuma, A.\*, Matsumoto, S.\*, Uakeia, T., and Nakayama, M. *Student Attitudes toward Climate Adaptation in Kiribati and the Marshall Islands: Evidence From USP-Tarawa and CMI Surveys.*  
+   - Status: Analysis complete; manuscript in preparation for *Journal of Disaster Research* (planned submission: January 2026).
+
+3. Naganuma, A. *Impact of the EU's Carbon Border Adjustment Mechanism and Canada's Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.*  
+   - Status: Initial draft complete; revisions underway. Journal submission planned (venue TBD); SSRN preprint forthcoming.
 
 # Presentations
 1. Naganuma, A., **[Presentation on ”Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition,” Broadbent Institute Progress Summit 2025, Workshop – Green Industrial Policy for Canada to Fight Today’s Climate Emergency and Trade War](https://broadbentinstitute.ca/research/bridging-the-transition/)**, Apr 2025.
