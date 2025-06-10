@@ -55,7 +55,8 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
   - Public Servant at Future Generation Development Department, Private School Affairs Division
 
 # Awards  
-**Excellence Award**, JICA Academic Essay Contest on Japanese Emigration in North America. Naganuma, A. (October 2024). [“The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s”](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html). Japan International Cooperation Agency.
+**Excellence Award**, JICA Academic Essay Contest on Japanese Emigration in North America  
+Naganuma, A. (October 2024). *“The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s”*. Japan International Cooperation Agency.
 
 # Scholarships  
 - **Japanese Government (MEXT) Scholarship** — Graduate-Degree Program  
@@ -74,7 +75,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 1. Naganuma, A. "Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis."
    - Status: Data access for Longitudinal Administrative Databank approved via Statistics Canada Research Data Centre.
 2. Naganuma, A.\*, Matsumoto, S.\*, Uakeia, T., and Nakayama, M. "Student Attitudes toward Climate Adaptation in Kiribati and the Marshall Islands: Evidence From USP-Tarawa and CMI Surveys."
-   - Status: Status: Analysis complete; manuscript in preparation for Journal of Disaster Research (planned submission: January 2026).
+   - Status: Analysis complete; manuscript in preparation for Journal of Disaster Research (planned submission: January 2026).
 3. Naganuma, A. “Impact of the EU's Carbon Border Adjustment Mechanism and Canada's carbon pricing:
 A partial equilibrium approach to Canada’s steel sector.”
    - Status: initial draft complete; revisions underway. Journal submission planned (venue TBD); SSRN preprint forthcoming.
