@@ -73,17 +73,25 @@ contest on Japanese emigration in North America](https://www.jica.go.jp/domestic
   - funded by [University of Ottawa](https://www.uottawa.ca/en)
   - Oct 2024
 
-# Publications
-1. Ayaka Naganuma, [”Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition”
+# Published Paper
+1. Naganuma, A., [”Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition”
 Broadbent Institute](https://broadbentinstitute.ca/research/bridging-the-transition/), Apr 2025.
-2. Ayaka Naganuma,” The possibility of regional development and tourism development in Japan through voluntary and collaborative sustainable tourism on isolated islands”, 5th Tourism Paper Award Contest / TAP Inc., August 2022.
+
+# Working Papers
+1. Naganuma, A. "Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis."
+   - Status: Data access for Longitudinal Administrative Databank approved via Statistics Canada Research Data Centre.
+2. Naganuma, A.*, Matsumoto, S.*, Uakeia, T., and Nakayama, M. "Student Attitudes toward Climate Adaptation in Kiribati and the Marshall Islands: Evidence From USP-Tarawa and CMI Surveys."
+   - Status: Status: Analysis complete; manuscript in preparation for Journal of Disaster Research (planned submission: Jan 2026).
+3. Naganuma, A. “Impact of the EU's Carbon Border Adjustment Mechanism and Canada's carbon pricing:
+A partial equilibrium approach to Canada’s steel sector.”
+　　- Status: initial draft complete; revisions underway. Journal submission planned (venue TBD); SSRN preprint forthcoming.
 
 # Presentations
-1. Ayaka Naganuma, [Presentation on ”Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition,” Broadbent Institute Progress Summit 2025, Workshop – Green Industrial Policy for Canada to Fight Today’s Climate Emergency and Trade War](https://broadbentinstitute.ca/research/bridging-the-transition/), Apr 2025.
-2. Ayaka Naganuma*, Momoka Sunohara*, Presentation on ”Review of Research on Needs and Sources of Support in Social Support”, Joint Research Presentation of Concordia University and ISCTE-IUL, September 2023. (* denotes equal contribution)
-3. Ayaka Naganuma, Presentation on ”Canadian Immigration Research: Overview of Canadian Immigration Policies and Current Challenges”, Tsukuba University International Migration Research Group, June 2023.
-4. Ayaka Naganuma, Presentation on ”Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy”, Gakusyuin University Institute of Economic Research June Monthly Research Presentation, June 2023.
-5. Ayaka Naganuma, Presentation on ”SDGs and Regional Promotion: A Case Study of Olive Island Creation in Shodoshima, Kagawa Prefecture,”, Gakusyuin University Institute of Economic Research May Monthly Research Presentation, May 2023.
+1. Naganuma, A., [Presentation on ”Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition,” Broadbent Institute Progress Summit 2025, Workshop – Green Industrial Policy for Canada to Fight Today’s Climate Emergency and Trade War](https://broadbentinstitute.ca/research/bridging-the-transition/), Apr 2025.
+2. Naganuma, A.*, and Sunohara, M.*. Presentation on ”Review of Research on Needs and Sources of Support in Social Support”, Joint Research Presentation of Concordia University and ISCTE-IUL, September 2023. (* denotes equal contribution)
+3. Naganuma, A., Presentation on ”Canadian Immigration Research: Overview of Canadian Immigration Policies and Current Challenges”, Tsukuba University International Migration Research Group, June 2023.
+4. Naganuma, A., Presentation on ”Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy”, Gakusyuin University Institute of Economic Research June Monthly Research Presentation, June 2023.
+5. Naganuma, A., Presentation on ”SDGs and Regional Promotion: A Case Study of Olive Island Creation in Shodoshima, Kagawa Prefecture,”, Gakusyuin University Institute of Economic Research May Monthly Research Presentation, May 2023.
 
 # Other Experience
 - [UN ESCAP (UN Economic and Social Commission for Asia and the Pacific) ](https://www.unescap.org/our-work/countries-special-situations/ldc) / Oct 2024 - Dec 2024
