@@ -8,7 +8,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 
 # Education
 
-- [University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - September 2026 (Expected)
+- [University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Sep 2026 (Expected)
   - Master of Arts in Public and International Affairs
   - Supervisor: [Prof. Nicholas Rivers](https://sites.google.com/site/nicholasjrivers/)
   - Research Paper Topic: ”Post-Disaster Economic Dynamics: Evidence from a Major Natural Disaster in Canada”
@@ -20,7 +20,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
   - Dissertation: "Overseas Expansion of Small and Medium-sized Enterprises (SMEs) in Ota-ku, Tokyo: Foreign Direct Investment in Thailand and the Clustering of SMEs" 
 
 # Research Experience
-- [Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / October 2024 - Present
+- [Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / Oct 2024 - Present
   - Visiting Fellow 
   - Supervisor: [Mr. Mikiyasu Nakayama](https://gif.or.jp/wp-content/uploads/2025/05/GIF_Researcher_Nakayama_20250423.pdf) , Ms. Akiko Sakamoto, and Ms. Naori Miyazawa
   - Topic: Climate change adaptation strategies and internal migration in small island developing states
@@ -52,7 +52,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 - [Relo Vacations, Ltd.](https://www.relo.jp/english/group/tourism/) / Apr 2019 - Dec 2021
   - Marketing Specialist, and Revenue and Brand Manager for local inns and hotels having financial difficulties
 - [Kanagawa Prefectural Government](https://www.pref.kanagawa.jp/) / Apr 2017 - Mar 2019
-  - Public Servant at Future Generation Development Department Private School Affairs Division
+  - Public Servant at Future Generation Development Department, Private School Affairs Division
 
 # Awards
 Ayaka Naganuma, ”The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue
