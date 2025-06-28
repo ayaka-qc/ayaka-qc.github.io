@@ -6,7 +6,6 @@ Hi! I am Ayaka Naganuma, an incoming intern at the [UNFCCC](https://unfccc.int/)
 
 My research focuses on climate adaptation, disaster resilience, labor economics, and social infrastructure development using both qualitative and quantitative methods. I am passionate about policy analysis and the intersection of environment and economic policy.
 
-### Links
 <a href="/assets/pdf/CV_Ayaka_Naganuma.pdf" class="btn" download>Download CV</a>
 
 # Education
