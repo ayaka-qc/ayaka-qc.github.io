@@ -25,23 +25,23 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 - **[Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / Oct 2024 - Present**
   - Visiting Fellow 
   - Supervisor: [Mr. Mikiyasu Nakayama](https://gif.or.jp/wp-content/uploads/2025/05/GIF_Researcher_Nakayama_20250423.pdf) , Ms. Akiko Sakamoto, and Ms. Naori Miyazawa
-  - Topic: Climate change adaptation strategies and internal migration in small island developing states
+  - Topic: CClimate change adaptation strategies and internal migration in small island developing states.
 - **[Broadbent Institute](https://www.broadbentinstitute.ca/) / Jan 2025 - Apr 2025**
   - Graduate Policy Researcher
   - Supervisor: [Mr. Clement Nocos](https://broadbentinstitute.ca/people/clement-nocos/), Director of Policy and Engagement
-  - Topic: Labor Mobility and Just Transition in Canada’s High-Emission Sectors
+  - Topic: Labor Mobility and Just Transition in Canada’s High-Emission Sectors.
 - **[University of Ottawa](https://www.uottawa.ca/en) / Aug 2024 - Sep 2024**
   - Research Assistant at the Telfer School of Management 
   - Supervisor: [Prof. Nelson Dueñas](https://telfer.uottawa.ca/en/directory/nelson-duenas/)
-  - Topic: Accounting and management in locally-led international development implemented in the Global South
+  - Topic: Locally led international development: accounting and management in the Global South.
 - **[Concordia University](https://www.concordia.ca/) / Apr 2023 - Aug 2024**
   - Research Assistant at the Institute for Cultural-Clinical Psychology 
   - Supervisor: Prof. Andrew G. Ryder
-  - Topic: Cultural acculturation on the mental well-being and social support needs of Japanese immigrants in Canada through comprehensive statistical analysis.
+  - Topic: Acculturation, mental health, and social support among Japanese immigrants in Canada.
 - **[Gakushuin University](https://www.univ.gakushuin.ac.jp/en/) / Apr 2022 - Mar 2024**
   - Research Assistant at the Research Institute of Economics and Management
   - Supervisor: Prof. Takaho Ueda
-  - Topic: Study of the applicability of the Territorial Approach to regional development in Japan based on comparative analysis with Italy and developing countries.
+  - Topic: Applicability of the Territorial Approach to regional development in Japan based on comparative analysis with Italy and developing countries.
  
 # Work Experience
 
