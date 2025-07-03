@@ -57,7 +57,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 
 # Published Paper
 1. Naganuma, A. (April 2025). *[Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition](https://broadbentinstitute.ca/research/bridging-the-transition/)*. Broadbent Institute.
-2. Naganuma, A. (October 2024). *[The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s.]([https://broadbentinstitute.ca/research/bridging-the-transition/](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html))*. JICA Academic Essay Contest Publication.
+2. Naganuma, A. (October 2024). *[The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s.]([https://broadbentinstitute.ca/research/bridging-the-transition/](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html)*. JICA Academic Essay Contest Publication.
 
 # Working Papers
 1. Naganuma, A. *Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis.* In prep for Master's Thesis.
