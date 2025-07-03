@@ -24,7 +24,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 # Research Experience
 - **[Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / Oct 2024 - Present**
   - Visiting Fellow 
-  - Supervisor: [Mr. Mikiyasu Nakayama](https://gif.or.jp/wp-content/uploads/2025/05/GIF_Researcher_Nakayama_20250423.pdf) , Ms. Akiko Sakamoto, and Ms. Naori Miyazawa
+  - Supervisor: [Mr. Mikiyasu Nakayama](https://gif.or.jp/wp-content/uploads/2025/05/GIF_Researcher_Nakayama_20250423.pdf) , Ms. Akiko Sakamoto, and Dr. Naori Miyazawa
   - Topic: CClimate change adaptation strategies and internal migration in small island developing states.
 - **[Broadbent Institute](https://www.broadbentinstitute.ca/) / Jan 2025 - Apr 2025**
   - Graduate Policy Researcher
@@ -43,7 +43,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
   - Supervisor: Prof. Takaho Ueda
   - Topic: Applicability of the Territorial Approach to regional development in Japan based on comparative analysis with Italy and developing countries.
  
-# Work Experience
+# Professional Experience
 - **[UN-Habitat Canada Office](https://unhabitat.org/news/13-dec-2022/united-nations-program-montreal-to-host-un-habitat-project-office) / Apr 2026 - July 2026 (Expected)**
   - Intern for Urban Data Collection and Analysis
 - **[United Nations Framework Convention on Climate Chnage](https://unfccc.int/) / Oct 2025 - Mar 2026 (Expected)**
@@ -57,7 +57,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 
 # Published Paper
 1. Naganuma, A. (April 2025). *[Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition](https://broadbentinstitute.ca/research/bridging-the-transition/)*. Broadbent Institute.
-2. Naganuma, A. (October 2024). *[The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s.](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html)*. JICA Academic Essay Contest Publication.
+2. Naganuma, A. (October 2024). *[The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html)*. JICA Academic Essay Contest Publication.
 
 # Working Papers
 1. Naganuma, A. *Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis.* In prep for Master's Thesis.
