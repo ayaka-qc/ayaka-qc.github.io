@@ -62,9 +62,18 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 # Working Papers
 1. Naganuma, A. *Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis.* In prep for Master's Thesis.
 
-2. Naganuma, A.\*, Matsumoto, S.\*, Uakeia, T., and Nakayama, M. *Student Attitudes toward Climate Adaptation in Kiribati and the Marshall Islands: Evidence From USP-Tarawa and CMI Surveys.* In prep for the Journal of Disaster Research (planned submission: January 2026).
+2. Naganuma, A. *Causal Effects of Workplace Safety Regulation on Employment and Wages:
+Evidence from California’s Heat Illness Prevention Standard.* In prep.
 
 3. Naganuma, A. *Impact of the EU's Carbon Border Adjustment Mechanism and Canada's Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.* In prep for the Journal of Energy Policy and SSRN preprint forthcoming.
+  
+4. Naganuma, A.\*, Matsumoto, S.\*, Uakeia, T., and Nakayama, M. *Attitudes toward Climate
+Adaptation and the ’Right to Stay’: A Comparative Analysis of Student Views in Kiribati
+and the Marshall Islands.* In prep for the Journal of Disaster Research (planned submission: January 2026).
+
+5. Naganuma, A., Uakeia, T., and Nakayama, M. *Heterogeneity in Perceptions of Climate
+Futures: A Multi-group CFA of Risk and Protection Attitudes among Pacific Island
+Students.* In prep for the Journal of Disaster Research (planned submission: January 2026).     
 
 # Presentations
 1. Naganuma, A., **[Presentation on ”Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition,” Broadbent Institute Progress Summit 2025, Workshop – Green Industrial Policy for Canada to Fight Today’s Climate Emergency and Trade War](https://broadbentinstitute.ca/research/bridging-the-transition/)**, Apr 2025.
