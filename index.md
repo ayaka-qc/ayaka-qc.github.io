@@ -8,7 +8,7 @@ I research climate change adaptation, disaster and climate risk, environmental i
 
 I am passionate about producing evidence that supports equitable, data-driven climate policy.
 
-<a href="/assets/files/Ayaka_Naganuma_CV.pdf" class="btn">📄 CV (Last updated: Nov 2025)</a>
+<a href="/assets/files/CV/Ayaka_Naganuma_Social_202511.pdf" class="btn">📄 CV (Last updated: Nov 2025)</a>
 
 # Education
 
