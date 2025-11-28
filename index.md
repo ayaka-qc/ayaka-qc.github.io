@@ -62,17 +62,14 @@ I am passionate about producing evidence that supports equitable, data-driven cl
 2. Naganuma, A. *[The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html)*. JICA Academic Essay Contest Publication, October 2024. (Excellence Award)
 
 # Working Papers
-1. Naganuma, A., Uakeia, T., and Seru, J. *Heterogeneity in Perceptions of Climate Futures: A Multi-group CFA of Risk and Protection Attitudes among Pacific Island Students.* Under review at the *Journal of Disaster Research* (November 2025).
-   
+
+1. Naganuma, A., Uakeia, T., and Seru, J. *Heterogeneity in Perceptions of Climate Futures: A Multi-group CFA of Risk and Protection Attitudes among Pacific Island Students.* Under review at the *Journal of Disaster Research* (November 2025). [Preprint PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_Marshall_Kiribati.pdf)
 2. Sakamoto, A., Naganuma, A., and Kunitake, Y. *The Agent of Change: How the Migration Decision-Maker Shapes Elderly Life Satisfaction in Hulhumalé, Maldives.* In preparation for the *Journal of Disaster Research* (planned submission: January 2026).
-
-3. Naganuma, A.\*, Matsumoto, S.\*, Uakeia, T., and Nakayama, M. *Attitudes toward Climate Adaptation and the ’Right to Stay’: A Comparative Analysis of Student Views in Kiribati and the Marshall Islands.* In prep for the Journal of Disaster Research (planned submission: January 2026).
-   
-4. Naganuma, A. *Causal Effects of Workplace Safety Regulation on Employment and Wages: Evidence from California’s Heat Illness Prevention Standard.* Preprint; SSRN submission pending approval.
-
-5. Naganuma, A. *Impact of the EU’s Carbon Border Adjustment Mechanism and Canada’s Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.* Preprint; SSRN submission pending approval.
-
-6. Naganuma, A. *Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis.* In preparation as part of the Master's Thesis research.   
+3. Naganuma, A.\*, Matsumoto, S.\*, Uakeia, T., and Nakayama, M. *Attitudes toward Climate Adaptation and the ’Right to Stay’: A Comparative Analysis of Student Views in Kiribati and the Marshall Islands.* In prep for the *Journal of Disaster Research* (planned submission: January 2026). [Preprint PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_Marshall_Kiribati.pdf)
+4. Naganuma, A. *Causal Effects of Workplace Safety Regulation on Employment and Wages: Evidence from California’s Heat Illness Prevention Standard.* Preprint; SSRN submission pending approval. [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2024_CA_Heat_Standard_Working_Paper.pdf)
+5. Naganuma, A. *Impact of the EU’s Carbon Border Adjustment Mechanism and Canada’s Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.* Preprint; SSRN submission pending approval. [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_CBAM_Canada_Steel_Working_Paper.pdf)
+6. Naganuma, A. *Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis.* In preparation as part of the Master's Thesis research.
+  
 
 # Presentations
 1. Loneliness and Mother-Tongue Education among Japanese Immigrants — JICA Yokohama Overseas Migration Museum Online Seminar, Fifth JICA Essay Critique Excellence Award Lecture. (December 2025)
