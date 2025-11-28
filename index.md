@@ -63,7 +63,7 @@ I am passionate about producing evidence that supports equitable, data-driven cl
 
 # Working Papers
 
-1. Naganuma, A., Uakeia, T., and Seru, J. *Heterogeneity in Perceptions of Climate Futures: A Multi-group CFA of Risk and Protection Attitudes among Pacific Island Students.* Under review at the *Journal of Disaster Research* (November 2025). [Preprint PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_Marshall_Kiribati.pdf)
+1. Naganuma, A., Uakeia, T., and Seru, J. *Heterogeneity in Climate Risk Perception and Rights-Based Protection: A Multi-Group Analysis in the Marshall Islands and Kiribati.* Under review at the *Journal of Disaster Research* (November 2025). [Preprint PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_Marshall_Kiribati.pdf)
 2. Sakamoto, A., Naganuma, A., and Kunitake, Y. *The Agent of Change: How the Migration Decision-Maker Shapes Elderly Life Satisfaction in Hulhumalé, Maldives.* In preparation for the *Journal of Disaster Research* (planned submission: January 2026).
 3. Naganuma, A.\*, Matsumoto, S.\*, and Uakeia, T. *Attitudes toward Climate Adaptation and the ’Right to Stay’: A Comparative Analysis of Student Views in Kiribati and the Marshall Islands.* In prep for the *Journal of Disaster Research* (planned submission: January 2026).
 4. Naganuma, A. *Causal Effects of Workplace Safety Regulation on Employment and Wages: Evidence from California’s Heat Illness Prevention Standard.* Preprint; SSRN submission pending approval. [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2024_CA_Heat_Standard_Working_Paper.pdf)
