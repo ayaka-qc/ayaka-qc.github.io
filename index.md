@@ -2,9 +2,11 @@
 layout: default
 ---
 
-Hi! I am Ayaka Naganuma, an incoming intern at the [UNFCCC](https://unfccc.int/) & [UN-Habitat](https://unhabitat.org/), and a master's student in [Public and International Affairs at the University of Ottawa](https://www.uottawa.ca/faculty-social-sciences/public-international-affairs). I have experience in local government in Japan, regional revitalization, and UN communications. 
+Hi! I am Ayaka Naganuma, an incoming intern at the [UNFCCC](https://unfccc.int/) & [UN-Habitat](https://unhabitat.org/), and a master's student in [Public and International Affairs at the University of Ottawa](https://www.uottawa.ca/faculty-social-sciences/public-international-affairs). 
 
-My research focuses on climate adaptation, disaster resilience, labor economics, and social infrastructure development using both qualitative and quantitative methods. I am passionate about policy analysis and the intersection of environment and economic policy.
+I research climate change adaptation, disaster and climate risk, environmental inequality, and climate governance, using quantitative causal inference and environmental data analysis. My work examines climate-related labor risks, post-disaster recovery, and adaptation decision-making in climate-vulnerable regions.
+
+I am passionate about producing evidence that supports equitable, data-driven climate policy.
 
 <a href="/assets/files/Ayaka_Naganuma_CV.pdf" class="btn">📄 CV (Last updated: July 2025)</a>
 
@@ -25,7 +27,7 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 - **[Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / Oct 2024 - Present**
   - Visiting Fellow 
   - Supervisor: [Mr. Mikiyasu Nakayama](https://gif.or.jp/wp-content/uploads/2025/05/GIF_Researcher_Nakayama_20250423.pdf) , Ms. Akiko Sakamoto, and Dr. Naori Miyazawa
-  - Topic: CClimate change adaptation strategies and internal migration in small island developing states.
+  - Topic: Climate change adaptation strategies and internal migration in small island developing states.
 - **[Broadbent Institute](https://www.broadbentinstitute.ca/) / Jan 2025 - Apr 2025**
   - Graduate Policy Researcher
   - Supervisor: [Mr. Clement Nocos](https://broadbentinstitute.ca/people/clement-nocos/), Director of Policy and Engagement
@@ -60,27 +62,25 @@ My research focuses on climate adaptation, disaster resilience, labor economics,
 2. Naganuma, A. (October 2024). *[The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html)*. JICA Academic Essay Contest Publication.
 
 # Working Papers
-1. Naganuma, A. *Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis.* In prep for Master's Thesis.
+1. Naganuma, A., Uakeia, T., and Seru, J. *Heterogeneity in Perceptions of Climate Futures: A Multi-group CFA of Risk and Protection Attitudes among Pacific Island Students.* Under review at the *Journal of Disaster Research* (November 2025).
+   
+2. Sakamoto, A., Naganuma, A., and Kunitake, Y. *The Agent of Change: How the Migration Decision-Maker Shapes Elderly Life Satisfaction in Hulhumalé, Maldives.* In preparation for the *Journal of Disaster Research* (planned submission: January 2026).
 
-2. Naganuma, A. *Causal Effects of Workplace Safety Regulation on Employment and Wages:
-Evidence from California’s Heat Illness Prevention Standard.* In prep.
+3. Naganuma, A.\*, Matsumoto, S.\*, Uakeia, T., and Nakayama, M. *Attitudes toward Climate Adaptation and the ’Right to Stay’: A Comparative Analysis of Student Views in Kiribati and the Marshall Islands.* In prep for the Journal of Disaster Research (planned submission: January 2026).
+   
+4. Naganuma, A. *Causal Effects of Workplace Safety Regulation on Employment and Wages: Evidence from California’s Heat Illness Prevention Standard.* Preprint; SSRN submission pending approval.
 
-3. Naganuma, A. *Impact of the EU's Carbon Border Adjustment Mechanism and Canada's Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.* In prep for the Journal of Energy Policy and SSRN preprint forthcoming.
-  
-4. Naganuma, A.\*, Matsumoto, S.\*, Uakeia, T., and Nakayama, M. *Attitudes toward Climate
-Adaptation and the ’Right to Stay’: A Comparative Analysis of Student Views in Kiribati
-and the Marshall Islands.* In prep for the Journal of Disaster Research (planned submission: January 2026).
+5. Naganuma, A. *Impact of the EU’s Carbon Border Adjustment Mechanism and Canada’s Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.* Preprint; SSRN submission pending approval.
 
-5. Naganuma, A., Uakeia, T., and Nakayama, M. *Heterogeneity in Perceptions of Climate
-Futures: A Multi-group CFA of Risk and Protection Attitudes among Pacific Island
-Students.* In prep for the Journal of Disaster Research (planned submission: January 2026).     
+6. Naganuma, A. *Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis.* In preparation as part of the Master's Thesis research.   
 
 # Presentations
-1. Naganuma, A., **[Presentation on ”Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition,” Broadbent Institute Progress Summit 2025, Workshop – Green Industrial Policy for Canada to Fight Today’s Climate Emergency and Trade War](https://broadbentinstitute.ca/research/bridging-the-transition/)**, Apr 2025.
-2. Naganuma, A.\*, and Sunohara, M.\*. Presentation on ”Review of Research on Needs and Sources of Support in Social Support”, Joint Research Presentation of Concordia University and ISCTE-IUL, September 2023. (* denotes equal contribution)
-3. Naganuma, A., Presentation on ”Canadian Immigration Research: Overview of Canadian Immigration Policies and Current Challenges”, Tsukuba University International Migration Research Group, June 2023.
-4. Naganuma, A., Presentation on ”Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy”, Gakusyuin University Institute of Economic Research June Monthly Research Presentation, June 2023.
-5. Naganuma, A., Presentation on ”SDGs and Regional Promotion: A Case Study of Olive Island Creation in Shodoshima, Kagawa Prefecture,”, Gakusyuin University Institute of Economic Research May Monthly Research Presentation, May 2023.
+1. Loneliness and Mother-Tongue Education among Japanese Immigrants — JICA Yokohama Overseas Migration Museum Online Seminar, Fifth JICA Essay Critique Excellence Award Lecture. (December 2025)
+2. **[Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition — Broadbent Institute Progress Summit 2025, Workshop on Green Industrial Policy. (April 2025)](https://broadbentinstitute.ca/research/bridging-the-transition/)**
+3. Review of Research on Social Support Needs and Sources — Joint Research Presentation, Concordia University & ISCTE-IUL. (September 2023)
+4. Canadian Immigration Research: Overview of Canadian Immigration Policies and Current Challenges, Tsukuba University International Migration Research Group. (June 2023)
+5. Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy, Gakusyuin University Institute of Economic Research Monthly Research Presentation. (June 2023)
+6. SDGs and Regional Promotion: A Case Study of Olive Island Creation in Shodoshima, Kagawa Prefecture, Gakusyuin University Institute of Economic Research Monthly Research Presentation. (May 2023)
 
 # Awards  
 **Excellence Award**, JICA Academic Essay Contest on Japanese Emigration in North America  
@@ -90,7 +90,9 @@ Naganuma, A. (October 2024). [*“The Loneliness Faced by Japanese Immigrants an
 - **Japanese Government Scholarship** — Graduate-Degree Program  
   - Funded by the [Japan Student Services Organization (JASSO)](https://www.jasso.go.jp/en/index.html) (Sep 2025 – Aug 2026)  
 - **[GSPIA Imagination Scholarship 2025](https://www.uottawa.ca/faculty-social-sciences/news-all/2025-gspia-imagination-scholarship-recipients)**  
-  - Funded by the Graduate School of Public and International Affairs, [University of Ottawa](https://www.uottawa.ca/en) (Mar 2025) 
+  - Funded by the Graduate School of Public and International Affairs, [University of Ottawa](https://www.uottawa.ca/en) (Mar 2025)
+- **CUPE 2626 Tuition Fund Financial Aid** — Article 27.3 (Winter disbursement)  
+  - Funded by the [University of Ottawa](https://www.uottawa.ca/en) (Oct 2025) 
 - **CUPE 2626 Tuition Fund Financial Aid** — Article 27.3 (Winter disbursement)  
   - Funded by the [University of Ottawa](https://www.uottawa.ca/en) (Feb 2025)  
 - **CUPE 2626 Tuition Fund Financial Aid** — Article 27.3 (Fall disbursement)  
@@ -124,7 +126,9 @@ Naganuma, A. (October 2024). [*“The Loneliness Faced by Japanese Immigrants an
   - English (Advanced, IELTS(Overall: 7.0(C1)): March 2024)
   - French (Elementary proficiency)
 - Programming
-  - Python (including statistical analysis by using scikit-learn and pytorch)
+  - Python (including statistical analysis by using scikit-learn and PyTorch)
+  - R
+  - Stata
   - LaTeX
   - Bash (Bourne-again shell) 
 
