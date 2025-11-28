@@ -8,7 +8,7 @@ I research climate change adaptation, disaster and climate risk, environmental i
 
 I am passionate about producing evidence that supports equitable, data-driven climate policy.
 
-<a href="/assets/files/Ayaka_Naganuma_CV.pdf" class="btn">📄 CV (Last updated: July 2025)</a>
+<a href="/assets/files/Ayaka_Naganuma_CV.pdf" class="btn">📄 CV (Last updated: Nov 2025)</a>
 
 # Education
 
@@ -48,7 +48,7 @@ I am passionate about producing evidence that supports equitable, data-driven cl
 # Professional Experience
 - **[UN-Habitat Canada Office](https://unhabitat.org/news/13-dec-2022/united-nations-program-montreal-to-host-un-habitat-project-office) / Apr 2026 - July 2026 (Expected)**
   - Intern for Urban Data Collection and Analysis
-- **[United Nations Framework Convention on Climate Chnage](https://unfccc.int/) / Oct 2025 - Mar 2026 (Expected)**
+- **[United Nations Framework Convention on Climate Change](https://unfccc.int/) / Oct 2025 - Mar 2026 (Expected)**
   - Intern for the Adaptation Division, Vulnerability sub-division
 - **[United Nations Information Center Tokyo](https://www.unic.or.jp/info/un_agencies_japan/unic/?lang=en) / Jan 2023 - Mar 2023**
   - Strategic Communication Intern 
@@ -58,8 +58,8 @@ I am passionate about producing evidence that supports equitable, data-driven cl
   - Public Servant at Future Generation Development Department, Private School Affairs Division
 
 # Published Paper
-1. Naganuma, A. (April 2025). *[Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition](https://broadbentinstitute.ca/research/bridging-the-transition/)*. Broadbent Institute.
-2. Naganuma, A. (October 2024). *[The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html)*. JICA Academic Essay Contest Publication.
+1. Naganuma, A. *[Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition](https://broadbentinstitute.ca/research/bridging-the-transition/)*. *Broadbent Institute Report*, April 2025.
+2. Naganuma, A. *[The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html)*. JICA Academic Essay Contest Publication, October 2024. (Excellence Award)
 
 # Working Papers
 1. Naganuma, A., Uakeia, T., and Seru, J. *Heterogeneity in Perceptions of Climate Futures: A Multi-group CFA of Risk and Protection Attitudes among Pacific Island Students.* Under review at the *Journal of Disaster Research* (November 2025).
@@ -129,6 +129,7 @@ Naganuma, A. (October 2024). [*“The Loneliness Faced by Japanese Immigrants an
   - Python (including statistical analysis by using scikit-learn and PyTorch)
   - R
   - Stata
+  - NVivo
   - LaTeX
   - Bash (Bourne-again shell) 
 
