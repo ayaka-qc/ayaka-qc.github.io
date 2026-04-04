@@ -46,9 +46,7 @@ I am passionate about producing evidence that supports equitable, data-driven cl
   - Topic: Applicability of the Territorial Approach to regional development in Japan based on comparative analysis with Italy and developing countries.
  
 # Professional Experience
-- **[UN-Habitat Canada Office](https://unhabitat.org/news/13-dec-2022/united-nations-program-montreal-to-host-un-habitat-project-office) / Apr 2026 - July 2026 (Expected)**
-  - Intern for Urban Data Collection and Analysis
-- **[United Nations Framework Convention on Climate Change](https://unfccc.int/) / Oct 2025 - Mar 2026 (Expected)**
+- **[United Nations Framework Convention on Climate Change](https://unfccc.int/) / Oct 2025 - Mar 2026**
   - Intern for the Adaptation Division, Vulnerability sub-division
 - **[United Nations Information Center Tokyo](https://www.unic.or.jp/info/un_agencies_japan/unic/?lang=en) / Jan 2023 - Mar 2023**
   - Strategic Communication Intern 
@@ -68,7 +66,6 @@ I am passionate about producing evidence that supports equitable, data-driven cl
 3. Naganuma, A.\*, Matsumoto, S.\*, and Uakeia, T. *Attitudes toward Climate Adaptation and the ’Right to Stay’: A Comparative Analysis of Student Views in Kiribati and the Marshall Islands.* In prep for the *Journal of Disaster Research* (planned submission: January 2026).
 4. Naganuma, A. *Causal Effects of Workplace Safety Regulation on Employment and Wages: Evidence from California’s Heat Illness Prevention Standard.* Preprint; SSRN submission pending approval. [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2024_CA_Heat_Standard_Working_Paper.pdf)
 5. Naganuma, A. *Impact of the EU’s Carbon Border Adjustment Mechanism and Canada’s Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.* Preprint; SSRN submission pending approval. [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_CBAM_Canada_Steel_Working_Paper.pdf)
-6. Naganuma, A. *Post-Disaster Economic Dynamics After the 2016 Fort McMurray Wildfire: Evidence from a Difference-in-Differences Analysis.* In preparation as part of the Master's Thesis research.
   
 
 # Presentations
