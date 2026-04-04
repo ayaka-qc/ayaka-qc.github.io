@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! I am Ayaka Naganuma, a master's student in [Public and International Affairs at the University of Ottawa](https://www.uottawa.ca/faculty-social-sciences/public-international-affairs), and an intern at the [UNFCCC](https://unfccc.int/) & [UN-Habitat](https://unhabitat.org/). 
+Hi! I am Ayaka Naganuma, a master's student in [Public and International Affairs at the University of Ottawa](https://www.uottawa.ca/faculty-social-sciences/public-international-affairs), and an incoming PhD student in [Urban Design and Planning at the University of Washington](https://sites.uw.edu/urbdpphd/). 
 
 I research climate change adaptation, disaster and climate risk, environmental inequality, and climate governance, using quantitative causal inference and environmental data analysis. My work examines climate-related labor risks, post-disaster recovery, and adaptation decision-making in climate-vulnerable regions.
 
