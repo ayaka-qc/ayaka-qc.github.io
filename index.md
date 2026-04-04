@@ -46,6 +46,8 @@ I am passionate about producing evidence that supports equitable, data-driven cl
   - Topic: Applicability of the Territorial Approach to regional development in Japan based on comparative analysis with Italy and developing countries.
  
 # Professional Experience
+- **Freelance Data Analyst & External Consultant / Feb 2026 - Mar 2026**
+  - Conducted bibliometric analysis on science and technology policy and research trends, developed API-based data pipelines and databases, and delivered analytical reports for a global consulting client
 - **[United Nations Framework Convention on Climate Change](https://unfccc.int/) / Oct 2025 - Mar 2026**
   - Intern for the Adaptation Division, Vulnerability sub-division
 - **[United Nations Information Center Tokyo](https://www.unic.or.jp/info/un_agencies_japan/unic/?lang=en) / Jan 2023 - Mar 2023**
