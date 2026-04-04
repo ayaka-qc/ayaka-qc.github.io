@@ -12,10 +12,10 @@ I am passionate about producing evidence that supports equitable, data-driven cl
 
 # Education
 
-- **[University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Sep 2026 (Expected)**
+- **[University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Aug 2026 (Expected)**
   - Master of Arts in Public and International Affairs
   - Supervisor: [Prof. Nicholas Rivers](https://sites.google.com/site/nicholasjrivers/)
-  - Research Paper Topic: ”Post-Disaster Economic Dynamics: Evidence from a Major Natural Disaster in Canada”
+    
 - **[McGill University](https://www.mcgill.ca/) / May 2022 - Dec 2023**
   - School of Continuing Studies. Courses for Professional Communication
 - **[Yokohama City University]([https://www-user.yokohama-cu.ac.jp/~english/](https://researchmap.jp/eiichiyoshida?lang=en)) / Apr 2013 - Mar 2017**
