@@ -123,7 +123,8 @@ Naganuma, A. (October 2024). [*“The Loneliness Faced by Japanese Immigrants an
   - Python (including statistical analysis by using scikit-learn and PyTorch)
   - R
   - Stata
+  - Sas
+  - SQL
   - NVivo
   - LaTeX
-  - Bash (Bourne-again shell) 
 
