@@ -6,7 +6,7 @@ Hi! I am Ayaka Naganuma, a master's student in [Public and International Affairs
 
 I research climate change adaptation, disaster and climate resilience, environmental inequality, and climate governance. I am passionate about producing evidence that supports equitable, data-driven  urban planning and policy.
 
-<a href="/assets/files/CV/Ayaka_Naganuma_Social_202511.pdf" class="btn">📄 CV (Last updated: Nov 2025)</a>
+<a href="/assets/files/CV/Ayaka_Naganuma_CV_2026" class="btn">📄 CV (Last updated: Nov 2025)</a>
 
 # Education
 
