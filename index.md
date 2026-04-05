@@ -106,10 +106,12 @@ Naganuma, A. (October 2024). [*“The Loneliness Faced by Japanese Immigrants an
   - Asia-Pacific Youth Representative organized by OECD and Youth Wise (OECD’s Youth Advisory Committee)
 - [Global Leadership Training Program](https://www.gltp-tokyo.com/) / Sep 2023 - Nov 2023
   - Certificate of Completion, November 2023 certified by GLTP Tokyo and Tobitate! Study Abroad Initiative
-\- Tokyo Metropolitan Government / September 2022 - December 2022
-  \- Training - Human Resources Development Project for Tourism Management
-\- [Christian Mission Service Philippines](https://cms.org.ph/) / June 2013 - Sep 2014
-  \- Volunteering - Support children’s education at the childcare organization that provides　comprehensive nurturing services
+
+<!--
+- Tokyo Metropolitan Government / September 2022 - December 2022
+  - Training - Human Resources Development Project for Tourism Management
+- [Christian Mission Service Philippines](https://cms.org.ph/) / June 2013 - Sep 2014
+  - Volunteering - Support children’s education at the childcare organization that provides　comprehensive nurturing services-->
 
 # Community
 - Ottawa Japanese Researchers Association: Member
