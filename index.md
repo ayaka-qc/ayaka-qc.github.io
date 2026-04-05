@@ -4,9 +4,7 @@ layout: default
 
 Hi! I am Ayaka Naganuma, a master's student in [Public and International Affairs at the University of Ottawa](https://www.uottawa.ca/faculty-social-sciences/public-international-affairs), and an incoming PhD student in [Urban Design and Planning at the University of Washington](https://sites.uw.edu/urbdpphd/). 
 
-I research climate change adaptation, disaster and climate risk, environmental inequality, and climate governance, using quantitative causal inference and environmental data analysis. My work examines climate-related labor risks, post-disaster recovery, and adaptation decision-making in climate-vulnerable regions.
-
-I am passionate about producing evidence that supports equitable, data-driven climate policy.
+I research climate change adaptation, disaster and climate resilience, environmental inequality, and climate governance. I am passionate about producing evidence that supports equitable, data-driven  urban planning and policy.
 
 <a href="/assets/files/CV/Ayaka_Naganuma_Social_202511.pdf" class="btn">📄 CV (Last updated: Nov 2025)</a>
 
@@ -63,11 +61,12 @@ I am passionate about producing evidence that supports equitable, data-driven cl
 
 # Working Papers
 
-1. Naganuma, A., Uakeia, T., and Seru, J. *Heterogeneity in Climate Risk Perception and Rights-Based Protection: A Multi-Group Analysis in the Marshall Islands and Kiribati.* Under review at the *Journal of Disaster Research* (November 2025). [Preprint PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_Marshall_Kiribati.pdf)
-2. Sakamoto, A., Naganuma, A., and Kunitake, Y. *The Agent of Change: How the Migration Decision-Maker Shapes Elderly Life Satisfaction in Hulhumalé, Maldives.* In preparation for the *Journal of Disaster Research* (planned submission: January 2026).
-3. Naganuma, A.\*, Matsumoto, S.\*, and Uakeia, T. *Attitudes toward Climate Adaptation and the ’Right to Stay’: A Comparative Analysis of Student Views in Kiribati and the Marshall Islands.* In prep for the *Journal of Disaster Research* (planned submission: January 2026).
-4. Naganuma, A. *Causal Effects of Workplace Safety Regulation on Employment and Wages: Evidence from California’s Heat Illness Prevention Standard.* Preprint; SSRN submission pending approval. [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2024_CA_Heat_Standard_Working_Paper.pdf)
-5. Naganuma, A. *Impact of the EU’s Carbon Border Adjustment Mechanism and Canada’s Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.* Preprint; SSRN submission pending approval. [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_CBAM_Canada_Steel_Working_Paper.pdf)
+1. Naganuma, A., Uakeia, T., and Seru, J. *Heterogeneity in Climate Risk Perception and Rights-Based Protection: A Multi-Group Analysis in the Marshall Islands and Kiribati.*Accepted at the *Journal of Disaster Research* (February 2026). 
+2. Sakamoto, A., Laila, A., Naganuma, A., Nishimura, T., and Rasheed, S. Assessing the Association of Urban and Economic Foundations with Post-Migration Life Satisfaction in the Maldives: Evidence from Voluntary Migrants to Hulhumalé, Maldives.*Accepted at the *Journal of Disaster Research* (March 2026). 
+3. Sakamoto, A., Kunitake, Y., Laila, A., Naganuma, A., and Rasheed, S. *The Agent of Change: How the Migration Decision-Maker Shapes Elderly Life Satisfaction in Hulhumalé, Maldives.*Accepted at the *Journal of Disaster Research* (March 2026). 
+4. Naganuma, A.\*, Matsumoto, S.\*, and Uakeia, T. *Attitudes toward Climate Adaptation and the ’Right to Stay’: A Comparative Analysis of Student Views in Kiribati and the Marshall Islands.* In prep for the *Journal of Disaster Research* (planned submission: January 2026).
+5. Naganuma, A. *Causal Effects of Workplace Safety Regulation on Employment and Wages: Evidence from California’s Heat Illness Prevention Standard.* Preprint; SSRN submission pending approval. [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2024_CA_Heat_Standard_Working_Paper.pdf)
+6. Naganuma, A. *Impact of the EU’s Carbon Border Adjustment Mechanism and Canada’s Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.* Preprint; SSRN submission pending approval. [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_CBAM_Canada_Steel_Working_Paper.pdf)
   
 
 # Presentations
