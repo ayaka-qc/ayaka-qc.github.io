@@ -10,6 +10,10 @@ I research climate change adaptation, disaster and climate resilience, environme
 
 # Education
 
+- **[University of Washington](https://www.washington.edu/) / Sep 2026 - Aug 2031 (Expected)**
+  - PhD (Interdisciplinary) in Urban Design and Planning
+  - Supervisors: [Prof. Daniel Abramson](https://urbdp.be.uw.edu/people/dan-abramson/), [Prof. Rachel Berney](https://urbdp.be.uw.edu/people/rachel-berney/), [Prof. Jan Whittington](https://urbdp.be.uw.edu/people/jan-whittington/)
+
 - **[University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Aug 2026 (Expected)**
   - Master of Arts in Public and International Affairs
   - Supervisor: [Prof. Nicholas Rivers](https://sites.google.com/site/nicholasjrivers/)
