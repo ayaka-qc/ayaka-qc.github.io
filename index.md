@@ -61,11 +61,11 @@ I research climate change adaptation, disaster and climate resilience, environme
 
 # Working Papers
 
-1. Naganuma, A., Uakeia, T., and Seru, J. *Heterogeneity in Climate Risk Perception and Rights-Based Protection: A Multi-Group Analysis in the Marshall Islands and Kiribati. *Accepted at the *Journal of Disaster Research* (February 2026). 
-2. Sakamoto, A., Laila, A., Naganuma, A., Nishimura, T., and Rasheed, S. Assessing the Association of Urban and Economic Foundations with Post-Migration Life Satisfaction in the Maldives: Evidence from Voluntary Migrants to Hulhumalé, Maldives. *Accepted at the *Journal of Disaster Research* (March 2026). 
-3. Sakamoto, A., Kunitake, Y., Laila, A., Naganuma, A., and Rasheed, S. *The Agent of Change: How the Migration Decision-Maker Shapes Elderly Life Satisfaction in Hulhumalé, Maldives. *Accepted at the *Journal of Disaster Research* (March 2026). 
+1. Naganuma, A., Uakeia, T., and Seru, J. *Heterogeneity in Climate Risk Perception and Rights-Based Protection: A Multi-Group Analysis in the Marshall Islands and Kiribati.* Accepted at the *Journal of Disaster Research* (February 2026). 
+2. Sakamoto, A., Laila, A., Naganuma, A., Nishimura, T., and Rasheed, S. Assessing the Association of Urban and Economic Foundations with Post-Migration Life Satisfaction in the Maldives: Evidence from Voluntary Migrants to Hulhumalé, Maldives.* Accepted at the *Journal of Disaster Research* (March 2026). 
+3. Sakamoto, A., Kunitake, Y., Laila, A., Naganuma, A., and Rasheed, S. *The Agent of Change: How the Migration Decision-Maker Shapes Elderly Life Satisfaction in Hulhumalé, Maldives.* Accepted at the *Journal of Disaster Research* (March 2026). 
 5. Naganuma, A. *Causal Effects of Workplace Safety Regulation on Employment and Wages: Evidence from California’s Heat Illness Prevention Standard.* Preprint; SSRN submission pending approval. [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2024_CA_Heat_Standard_Working_Paper.pdf)
-6. Naganuma, A. *Impact of the EU’s Carbon Border Adjustment Mechanism and Canada’s Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.* Preprint; SSRN submission pending approval. [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_CBAM_Canada_Steel_Working_Paper.pdf)
+6. Naganuma, A. *Impact of the EU’s Carbon Border Adjustment Mechanism and Canada’s Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.* Preprint; SSRN [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_CBAM_Canada_Steel_Working_Paper.pdf)
   
 
 # Presentations
