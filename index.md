@@ -8,7 +8,7 @@ My research focuses on climate adaptation strategies, disaster recovery, and com
 
 My work engages with issues of environmental migration, managed retreat, place attachment, and climate governance, with the goal of producing evidence that supports equitable and data-driven urban planning.
 
-My current research interests include:
+**My current research interests include:**
 
 - Climate adaptation and disaster recovery
 - Community resilience and long-term rebuilding
