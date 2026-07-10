@@ -4,9 +4,9 @@ layout: default
 
 Hi! I am Ayaka Naganuma, a master's student in [Public and International Affairs at the University of Ottawa](https://www.uottawa.ca/faculty-social-sciences/public-international-affairs), and an incoming PhD student in [Urban Design and Planning at the University of Washington](https://sites.uw.edu/urbdpphd/). 
 
-My research focuses on climate adaptation strategies, disaster recovery, and community resilience in urban and coastal communities. I am especially interested in how communities facing climate- and disaster-related risks make decisions about staying, relocating, or rebuilding, and how planning and policy can support more equitable long-term recovery.
+My research focuses on climate adaptation, disaster recovery, and community resilience in urban and coastal communities. I am especially interested in how planning and policy can support communities facing climate- and disaster-related risks, including decisions around staying, relocating, retreating, or rebuilding.
 
-My work engages with issues of environmental migration, managed retreat, place attachment, and climate governance, with the goal of producing evidence that supports equitable and data-driven urban planning.
+Using mixed-methods approaches, including quantitative, qualitative, spatial, and policy analysis, I aim to produce evidence that supports equitable and data-driven urban planning.
 
 **My current research interests include:**
 
