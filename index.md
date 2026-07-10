@@ -4,7 +4,7 @@ layout: default
 
 Hi! I am Ayaka Naganuma, a master's student in [Public and International Affairs at the University of Ottawa](https://www.uottawa.ca/faculty-social-sciences/public-international-affairs), and an incoming PhD student in [Urban Design and Planning at the University of Washington](https://sites.uw.edu/urbdpphd/). 
 
-I research climate change adaptation, disaster and climate resilience, environmental inequality, and climate governance. I am passionate about producing evidence that supports equitable, data-driven  urban planning and policy.
+I research climate change adaptation, disaster and climate resilience, environmental inequality, and climate governance. I am passionate about producing evidence that supports equitable, data-driven urban planning and policy.
 
 <a href="/assets/files/CV/Ayaka_Naganuma_CV_2026.pdf" class="btn">📄 CV (Last updated: April 2026)</a>
 
@@ -17,9 +17,7 @@ I research climate change adaptation, disaster and climate resilience, environme
 - **[University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Aug 2026 (Expected)**
   - Master of Arts in Public and International Affairs
   - Supervisor: [Prof. Nicholas Rivers](https://sites.google.com/site/nicholasjrivers/)
-    
-- **[McGill University](https://www.mcgill.ca/) / May 2022 - Dec 2023**
-  - School of Continuing Studies. Courses for Professional Communication
+
 - **[Yokohama City University]([https://www-user.yokohama-cu.ac.jp/~english/](https://researchmap.jp/eiichiyoshida?lang=en)) / Apr 2013 - Mar 2017**
   - Bachelor of Arts and Science, Global, Regional, and Urban Studies
   - Supervisor: [Prof. Eiichi Yoshida](https://www.yokohama-cu.ac.jp/researcher/yoshidaeiichi.html)
@@ -59,17 +57,27 @@ I research climate change adaptation, disaster and climate resilience, environme
 - **[Kanagawa Prefectural Government](https://www.pref.kanagawa.jp/) / Apr 2017 - Mar 2019**
   - Public Servant at Future Generation Development Department, Private School Affairs Division
 
-# Published Paper
-1. Naganuma, A. *[Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition](https://broadbentinstitute.ca/research/bridging-the-transition/)*. *Broadbent Institute Report*, April 2025.
-2. Naganuma, A. *[The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/1552401_52759.html)*. JICA Academic Essay Contest Publication, October 2024. (Excellence Award)
+# Peer-Reviewed Journal Articles
 
-# Working Papers
+1. **Naganuma, A.**, Uakeia, T., and Seru, J. “Heterogeneity in Climate Risk Perception and Rights-Based Protection: A Multi-Group Analysis in the Marshall Islands and Kiribati.” *Journal of Disaster Research*, 21(4), August 2026. In press.
 
-1. Naganuma, A., Uakeia, T., and Seru, J. *Heterogeneity in Climate Risk Perception and Rights-Based Protection: A Multi-Group Analysis in the Marshall Islands and Kiribati.* Accepted at the *Journal of Disaster Research* (February 2026). 
-2. Sakamoto, A., Laila, A., Naganuma, A., Nishimura, T., and Rasheed, S. Assessing the Association of Urban and Economic Foundations with Post-Migration Life Satisfaction in the Maldives: Evidence from Voluntary Migrants to Hulhumalé, Maldives.* Accepted at the *Journal of Disaster Research* (March 2026). 
-3. Sakamoto, A., Kunitake, Y., Laila, A., Naganuma, A., and Rasheed, S. *The Agent of Change: How the Migration Decision-Maker Shapes Elderly Life Satisfaction in Hulhumalé, Maldives.* Accepted at the *Journal of Disaster Research* (March 2026). 
-5. Naganuma, A. Causal Effects of Workplace Safety Regulation on Employment and Wages: Evidence from California’s Heat Illness Prevention Standard.
-6. Naganuma, A. *Impact of the EU’s Carbon Border Adjustment Mechanism and Canada’s Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.* Preprint; SSRN [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_CBAM_Canada_Steel_Working_Paper.pdf)
+2. Sakamoto, A., Laila, A., **Naganuma, A.**, Nishimura, T., and Rasheed, S. “Assessing the Association of Urban and Economic Foundations with Post-Migration Life Satisfaction in the Maldives: Evidence from Voluntary Migrants to Hulhumalé, Maldives.” *Journal of Disaster Research*, 21(4), August 2026. In press.
+
+3. Sakamoto, A., Kunitake, Y., Laila, A., **Naganuma, A.**, and Rasheed, S. “The Agent of Change: How the Migration Decision-Maker Shapes Elderly Life Satisfaction in Hulhumalé, Maldives.” *Journal of Disaster Research*, 21(4), August 2026. In press.
+
+# Reports and Other Publications
+
+1. **Ayaka Naganuma**. “[Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition](https://broadbentinstitute.ca/research/bridging-the-transition/).” *Broadbent Institute Report*, April 2025.
+
+2. **Ayaka Naganuma**. “[The Loneliness Faced by Japanese Immigrants and the Importance of Mother Tongue Education and Community: Based on Articles from the North American Post in the 1950s](https://www.jica.go.jp/domestic/jomm/whatsnew/2024/__icsFiles/afieldfile/2024/09/30/02_EssayHyoron_Yushu.pdf).” *JICA Academic Essay Contest Publication*, October 2024. **(Excellence Award)**
+
+# Selected Working Papers
+
+1. **Naganuma, A.** “Inclusion by Design: Procurement Architecture and Local Participation in ADB Climate Infrastructure.” Policy brief under review, Asian Development Bank Sustainable Procurement Resource Hub, 2026.
+
+2. **Naganuma, A.** “Causal Effects of Workplace Safety Regulation on Employment and Wages: Evidence from California’s Heat Illness Prevention Standard.”
+
+3. **Naganuma, A.** “Impact of the EU’s Carbon Border Adjustment Mechanism and Canada’s Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.” Preprint; SSRN [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_CBAM_Canada_Steel_Working_Paper.pdf).
   
 
 # Presentations
@@ -111,16 +119,6 @@ Naganuma, A. (October 2024). [*“The Loneliness Faced by Japanese Immigrants an
 - [Global Leadership Training Program](https://www.gltp-tokyo.com/) / Sep 2023 - Nov 2023
   - Certificate of Completion, November 2023 certified by GLTP Tokyo and Tobitate! Study Abroad Initiative
 
-<!--
-- Tokyo Metropolitan Government / September 2022 - December 2022
-  - Training - Human Resources Development Project for Tourism Management
-- [Christian Mission Service Philippines](https://cms.org.ph/) / June 2013 - Sep 2014
-  - Volunteering - Support children’s education at the childcare organization that provides　comprehensive nurturing services-->
-
-# Community
-- Ottawa Japanese Researchers Association: Member
-- Montreal Academy Club: Member
-- Model of United Nations of Hiyoshi Branch: 19th generation
 
 # Skills Summary
 - Language
