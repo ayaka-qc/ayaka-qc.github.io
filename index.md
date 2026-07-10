@@ -81,12 +81,10 @@ I research climate change adaptation, disaster and climate resilience, environme
   
 
 # Presentations
-1. Loneliness and Mother-Tongue Education among Japanese Immigrants — JICA Yokohama Overseas Migration Museum Online Seminar, Fifth JICA Essay Critique Excellence Award Lecture. (December 2025)
+1. **[Loneliness and Mother-Tongue Education among Japanese Immigrants — JICA Yokohama Overseas Migration Museum Online Seminar, Excellence Award Lecture. (December 2025)](https://www.jica.go.jp/domestic/jomm/events/reference/2025/1575274_67487.html)**
 2. **[Bridging the Transition: Labour Mobility and Workforce Adaptation in Canada’s Just Transition — Broadbent Institute Progress Summit 2025, Workshop on Green Industrial Policy. (April 2025)](https://broadbentinstitute.ca/research/bridging-the-transition/)**
 3. Review of Research on Social Support Needs and Sources — Joint Research Presentation, Concordia University & ISCTE-IUL. (September 2023)
-4. Canadian Immigration Research: Overview of Canadian Immigration Policies and Current Challenges, Tsukuba University International Migration Research Group. (June 2023)
-5. Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy, Gakusyuin University Institute of Economic Research Monthly Research Presentation. (June 2023)
-6. SDGs and Regional Promotion: A Case Study of Olive Island Creation in Shodoshima, Kagawa Prefecture, Gakusyuin University Institute of Economic Research Monthly Research Presentation. (May 2023)
+4. Italy’s Territorial Approach and the Commercialization of Rural Area: A Case Study of Mount Amiata in Italy, Gakusyuin University Institute of Economic Research Monthly Research Presentation. (June 2023)
 
 # Awards  
 **Excellence Award**, JICA Academic Essay Contest on Japanese Emigration in North America  
