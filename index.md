@@ -16,7 +16,7 @@ Using mixed-methods approaches, including quantitative, qualitative, spatial, an
 - Equitable planning for communities deciding whether to stay, relocate, retreat, or rebuild
 - Environmental justice and evidence-based urban planning for coastal and disaster-prone communities
 
-<a href="/assets/files/CV/Ayaka_Naganuma_CV_2026.pdf" class="btn">📄 CV (Last updated: April 2026)</a>
+<a href="/assets/files/CV/Ayaka_Naganuma_CV_2026.pdf" class="btn">📄 CV (Last updated: July 2026)</a>
 
 # Education
 
