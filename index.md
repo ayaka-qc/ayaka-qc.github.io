@@ -36,7 +36,7 @@ Using mixed-methods approaches, including quantitative, qualitative, spatial, an
 # Research Experience
 - **[Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / Oct 2024 - Present**
   - Visiting Fellow 
-  - Supervisor: [Mr. Mikiyasu Nakayama](https://gif.or.jp/wp-content/uploads/2025/05/GIF_Researcher_Nakayama_20250423.pdf) , Ms. Akiko Sakamoto, and Dr. Naori Miyazawa
+  - Supervisor: [Dr. Mikiyasu Nakayama](https://gif.or.jp/wp-content/uploads/2025/05/GIF_Researcher_Nakayama_20250423.pdf) , Ms. Akiko Sakamoto, and Dr. Naori Miyazawa
   - Topic: Climate change adaptation strategies and internal migration in small island developing states.
 - **[Broadbent Institute](https://www.broadbentinstitute.ca/) / Jan 2025 - Apr 2025**
   - Graduate Policy Researcher
