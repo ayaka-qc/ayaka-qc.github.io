@@ -31,7 +31,6 @@ Using mixed-methods approaches, including quantitative, qualitative, spatial, an
 - **[Yokohama City University]([https://www-user.yokohama-cu.ac.jp/~english/](https://researchmap.jp/eiichiyoshida?lang=en)) / Apr 2013 - Mar 2017**
   - Bachelor of Arts and Science, Global, Regional, and Urban Studies
   - Supervisor: [Prof. Eiichi Yoshida](https://www.yokohama-cu.ac.jp/researcher/yoshidaeiichi.html)
-  - Dissertation: "Overseas Expansion of Small and Medium-sized Enterprises (SMEs) in Ota-ku, Tokyo: Foreign Direct Investment in Thailand and the Clustering of SMEs" 
 
 # Research Experience
 - **[Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / Oct 2024 - Jul 2026**
