@@ -24,7 +24,7 @@ Using mixed-methods approaches, including quantitative, qualitative, spatial, an
   - PhD (Interdisciplinary) in Urban Design and Planning
   - Supervisors: [Prof. Daniel Abramson](https://urbdp.be.uw.edu/people/dan-abramson/), [Prof. Rachel Berney](https://urbdp.be.uw.edu/people/rachel-berney/), [Prof. Jan Whittington](https://urbdp.be.uw.edu/people/jan-whittington/)
 
-- **[University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Aug 2026 (Expected)**
+- **[University of Ottawa](https://www.uottawa.ca/en) / Sep 2024 - Aug 2026**
   - Master of Arts in Public and International Affairs
   - Supervisor: [Prof. Nicholas Rivers](https://sites.google.com/site/nicholasjrivers/)
 
@@ -34,7 +34,7 @@ Using mixed-methods approaches, including quantitative, qualitative, spatial, an
   - Dissertation: "Overseas Expansion of Small and Medium-sized Enterprises (SMEs) in Ota-ku, Tokyo: Foreign Direct Investment in Thailand and the Clustering of SMEs" 
 
 # Research Experience
-- **[Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / Oct 2024 - Present**
+- **[Global Infrastructure Fund Research Foundation Japan](https://gif.or.jp/) / Oct 2024 - Jul 2026**
   - Visiting Fellow 
   - Supervisor: [Dr. Mikiyasu Nakayama](https://gif.or.jp/wp-content/uploads/2025/05/GIF_Researcher_Nakayama_20250423.pdf) , Ms. Akiko Sakamoto, and Dr. Naori Miyazawa
   - Topic: Climate change adaptation strategies and internal migration in small island developing states.
@@ -69,11 +69,13 @@ Using mixed-methods approaches, including quantitative, qualitative, spatial, an
 
 # Peer-Reviewed Journal Articles
 
-1. **Naganuma, A.**, Uakeia, T., and Seru, J. “Heterogeneity in Climate Risk Perception and Rights-Based Protection: A Multi-Group Analysis in the Marshall Islands and Kiribati.” *Journal of Disaster Research*, 21(4), August 2026. In press.
+1. **Naganuma, A.**, Seru, J., and Uakeia, T. “Heterogeneity in Climate Risk Perception and Rights-Based Protection: A Multi-Group Analysis in the Marshall Islands and Kiribati.” *Journal of Disaster Research*, 21(4), 676–688, 2026. https://doi.org/10.20965/jdr.2026.p0676
 
-2. Sakamoto, A., Laila, A., **Naganuma, A.**, Nishimura, T., and Rasheed, S. “Assessing the Association of Urban and Economic Foundations with Post-Migration Life Satisfaction in the Maldives: Evidence from Voluntary Migrants to Hulhumalé, Maldives.” *Journal of Disaster Research*, 21(4), August 2026. In press.
+2. Matsumoto, S., **Naganuma, A.**, Seru, J., and Uakeia, T. “Navigating the ‘Right to Stay’: A Comparative Analysis of Perceptions on Climate Adaptation in Kiribati and the Marshall Islands.” *Journal of Disaster Research*, 21(4), 665–675, 2026. https://doi.org/10.20965/jdr.2026.p0665
 
-3. Sakamoto, A., Kunitake, Y., Laila, A., **Naganuma, A.**, and Rasheed, S. “The Agent of Change: How the Migration Decision-Maker Shapes Elderly Life Satisfaction in Hulhumalé, Maldives.” *Journal of Disaster Research*, 21(4), August 2026. In press.
+3. Sakamoto, A., Laila, A., **Naganuma, A.**, Nishimura, T., and Rasheed, S. “Association of Urban and Economic Foundations with Post-Migration Life Satisfaction in the Maldives: Evidence from Voluntary Migrants to Hulhumalé.” *Journal of Disaster Research*, 21(4), 729–741, 2026. https://doi.org/10.20965/jdr.2026.p0729
+
+4. Sakamoto, A., Kunitake, Y., Laila, A., **Naganuma, A.**, and Rasheed, S. “Agent of Change: How Migration Decision-Making Relates to Post-Migration Well-Being Among Older Adults in Hulhumalé, Maldives.” *Journal of Disaster Research*, 21(4), 742–756, 2026. https://doi.org/10.20965/jdr.2026.p0742
 
 # Reports and Other Publications
 
@@ -83,11 +85,7 @@ Using mixed-methods approaches, including quantitative, qualitative, spatial, an
 
 # Selected Working Papers
 
-1. **Naganuma, A.** “Inclusion by Design: Procurement Architecture and Local Participation in ADB Climate Infrastructure.” Policy brief under review, Asian Development Bank Sustainable Procurement Resource Hub, 2026.
-
-2. **Naganuma, A.** “Causal Effects of Workplace Safety Regulation on Employment and Wages: Evidence from California’s Heat Illness Prevention Standard.”
-
-3. **Naganuma, A.** “Impact of the EU’s Carbon Border Adjustment Mechanism and Canada’s Carbon Pricing: A Partial-Equilibrium Approach to Canada’s Steel Sector.” Preprint; SSRN [PDF](https://ayaka-qc.github.io/assets/files/Working%20Paper/Naganuma_2025_CBAM_Canada_Steel_Working_Paper.pdf).
+1. **Naganuma, A.** “Causal Effects of Workplace Safety Regulation on Employment and Wages: Evidence from California’s Heat Illness Prevention Standard.”
   
 
 # Presentations
