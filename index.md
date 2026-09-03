@@ -68,13 +68,13 @@ Using mixed-methods approaches, including quantitative, qualitative, spatial, an
 
 # Peer-Reviewed Journal Articles
 
-1. **Naganuma, A.**, Seru, J., and Uakeia, T. “Heterogeneity in Climate Risk Perception and Rights-Based Protection: A Multi-Group Analysis in the Marshall Islands and Kiribati.” *Journal of Disaster Research*, 21(4), 676–688, 2026. https://doi.org/10.20965/jdr.2026.p0676
+1. **Naganuma, A.**, Seru, J., and Uakeia, T. “Heterogeneity in Climate Risk Perception and Rights-Based Protection: A Multi-Group Analysis in the Marshall Islands and Kiribati.” *Journal of Disaster Research*, 21(4), 676–688, 2026. [DOI](https://doi.org/10.20965/jdr.2026.p0676)
 
-2. Matsumoto, S., **Naganuma, A.**, Seru, J., and Uakeia, T. “Navigating the ‘Right to Stay’: A Comparative Analysis of Perceptions on Climate Adaptation in Kiribati and the Marshall Islands.” *Journal of Disaster Research*, 21(4), 665–675, 2026. https://doi.org/10.20965/jdr.2026.p0665
+2. Matsumoto, S., **Naganuma, A.**, Seru, J., and Uakeia, T. “Navigating the ‘Right to Stay’: A Comparative Analysis of Perceptions on Climate Adaptation in Kiribati and the Marshall Islands.” *Journal of Disaster Research*, 21(4), 665–675, 2026. [DOI](https://doi.org/10.20965/jdr.2026.p0665)
 
-3. Sakamoto, A., Laila, A., **Naganuma, A.**, Nishimura, T., and Rasheed, S. “Association of Urban and Economic Foundations with Post-Migration Life Satisfaction in the Maldives: Evidence from Voluntary Migrants to Hulhumalé.” *Journal of Disaster Research*, 21(4), 729–741, 2026. https://doi.org/10.20965/jdr.2026.p0729
+3. Sakamoto, A., Laila, A., **Naganuma, A.**, Nishimura, T., and Rasheed, S. “Association of Urban and Economic Foundations with Post-Migration Life Satisfaction in the Maldives: Evidence from Voluntary Migrants to Hulhumalé.” *Journal of Disaster Research*, 21(4), 729–741, 2026. [DOI](https://doi.org/10.20965/jdr.2026.p0729)
 
-4. Sakamoto, A., Kunitake, Y., Laila, A., **Naganuma, A.**, and Rasheed, S. “Agent of Change: How Migration Decision-Making Relates to Post-Migration Well-Being Among Older Adults in Hulhumalé, Maldives.” *Journal of Disaster Research*, 21(4), 742–756, 2026. https://doi.org/10.20965/jdr.2026.p0742
+4. Sakamoto, A., Kunitake, Y., Laila, A., **Naganuma, A.**, and Rasheed, S. “Agent of Change: How Migration Decision-Making Relates to Post-Migration Well-Being Among Older Adults in Hulhumalé, Maldives.” *Journal of Disaster Research*, 21(4), 742–756, 2026. [DOI](https://doi.org/10.20965/jdr.2026.p0742)
 
 # Reports and Other Publications
 
